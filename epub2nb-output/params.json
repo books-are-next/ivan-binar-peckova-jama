@@ -1,11 +1,15 @@
 {
   "params": {
     "metadata": {
+      "languageCode": "cs",
+      "contentType": "prose",
       "title": "Peckova jáma",
       "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
       "author": "Ivan Binar",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2022-02-24T00:00:00.000Z"
+      "modified": "2022-02-24T00:00:00.000Z",
+      "isbn": "978-80-274-2182-4; 978-80-274-2181-7; 978-80-274-2183-1",
+      "publisherShort": "MKP"
     },
     "elements": {
       "title": "MLP_uroven1_zvlastni_pripady\nMLP_uroven1_cast\nMLP-uroven2-kapitola",
@@ -30,50 +34,55 @@
       {
         "isSection": true,
         "id": "section-1",
+        "listType": "plain",
         "children": [
           {
             "filename": "peckova_jama_001.md",
             "xhtml": "peckova_jama_001.xhtml",
             "id": 0,
-            "role": "chapter",
+            "role": "cover",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "peckova_jama_002.md",
             "xhtml": "peckova_jama_002.xhtml",
             "id": 1,
-            "role": "chapter",
+            "role": "break",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "peckova_jama_003.md",
             "xhtml": "peckova_jama_003.xhtml",
             "id": 2,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "peckova_jama_004.md",
             "xhtml": "peckova_jama_004.xhtml",
             "id": 3,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "peckova_jama_005.md",
@@ -81,10 +90,12 @@
             "id": 4,
             "role": "chapter",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Citát"
           },
           {
             "filename": "peckova_jama_006.md",
@@ -95,7 +106,10 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Bdělá pod Bezdězem",
+            "subtitle": ""
           },
           {
             "filename": "peckova_jama_007.md",
@@ -106,7 +120,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Kuří Vody"
           },
           {
             "filename": "peckova_jama_008.md",
@@ -117,7 +133,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Cestou necestou"
           },
           {
             "filename": "peckova_jama_009.md",
@@ -128,7 +146,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Na stopě"
           },
           {
             "filename": "peckova_jama_010.md",
@@ -139,7 +159,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Dobrá rada"
           },
           {
             "filename": "peckova_jama_011.md",
@@ -150,7 +172,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Už…"
           },
           {
             "filename": "peckova_jama_012.md",
@@ -161,18 +185,21 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Pod Andělskými křídly"
           },
           {
             "filename": "peckova_jama_013.md",
             "xhtml": "peckova_jama_013.xhtml",
             "id": 12,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           }
         ]
       }
@@ -343,6 +370,6 @@
       "user": "books-are-next",
       "repo": "ivan-binar-peckova-jama"
     },
-    "generatedAt": 1649315603820
+    "generatedAt": 1649316457095
   }
 }

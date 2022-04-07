@@ -1,0 +1,230 @@
+{
+  "author": "Ivan Binar",
+  "contenttype": "prose",
+  "identifier": "binar-peckova-jama-73df76a",
+  "isbn": "978-80-274-2182-4; 978-80-274-2181-7; 978-80-274-2183-1",
+  "languagecode": "cs",
+  "modified": "2022-02-24T00:00:00.000Z",
+  "publisher": "Městská knihovna v Praze",
+  "publishershort": "MKP",
+  "title": "Peckova jáma",
+  "revision": "73df76a",
+  "generatedAt": {
+    "date": "Thu Apr 07 2022 07:28:41 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1649316521498
+  },
+  "documents": [
+    {
+      "title": "Peckova jáma",
+      "file": "peckova_jama_002.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "peckova_jama_005.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Peckova jáma",
+      "file": "peckova_jama_005.html",
+      "words": 23,
+      "chars": 128,
+      "ideas": 5,
+      "role": "chapter",
+      "order": 1,
+      "prev": "peckova_jama_002.html",
+      "next": "peckova_jama_006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Peckova jáma",
+      "file": "peckova_jama_006.html",
+      "words": 10133,
+      "chars": 63029,
+      "ideas": 272,
+      "role": "chapter",
+      "order": 2,
+      "prev": "peckova_jama_005.html",
+      "next": "peckova_jama_007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Peckova jáma",
+      "file": "peckova_jama_007.html",
+      "words": 10309,
+      "chars": 63355,
+      "ideas": 233,
+      "role": "chapter",
+      "order": 3,
+      "prev": "peckova_jama_006.html",
+      "next": "peckova_jama_008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Peckova jáma",
+      "file": "peckova_jama_008.html",
+      "words": 28162,
+      "chars": 174750,
+      "ideas": 573,
+      "role": "chapter",
+      "order": 4,
+      "prev": "peckova_jama_007.html",
+      "next": "peckova_jama_009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Peckova jáma",
+      "file": "peckova_jama_009.html",
+      "words": 21303,
+      "chars": 132251,
+      "ideas": 384,
+      "role": "chapter",
+      "order": 5,
+      "prev": "peckova_jama_008.html",
+      "next": "peckova_jama_010.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Peckova jáma",
+      "file": "peckova_jama_010.html",
+      "words": 8228,
+      "chars": 50047,
+      "ideas": 220,
+      "role": "chapter",
+      "order": 6,
+      "prev": "peckova_jama_009.html",
+      "next": "peckova_jama_011.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Peckova jáma",
+      "file": "peckova_jama_011.html",
+      "words": 11193,
+      "chars": 69260,
+      "ideas": 200,
+      "role": "chapter",
+      "order": 7,
+      "prev": "peckova_jama_010.html",
+      "next": "peckova_jama_012.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Peckova jáma",
+      "file": "peckova_jama_012.html",
+      "words": 2050,
+      "chars": 12161,
+      "ideas": 70,
+      "role": "chapter",
+      "order": 8,
+      "prev": "peckova_jama_011.html",
+      "next": "colophon.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tiráž • Peckova jáma",
+      "file": "colophon.html",
+      "words": 140,
+      "chars": 916,
+      "ideas": 21,
+      "role": "colophon",
+      "order": null,
+      "prev": "peckova_jama_012.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tiráž",
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 91546,
+      "chars": 565922,
+      "ideas": 1981
+    },
+    "chapters": {
+      "words": 91401,
+      "chars": 564981,
+      "ideas": 1957
+    }
+  }
+}
