@@ -12,21 +12,21 @@
       "publisherShort": "MKP"
     },
     "elements": {
-      "title": "MLP_uroven1_zvlastni_pripady\nMLP_uroven1_cast\nMLP-uroven2-kapitola",
+      "title": "",
       "subtitle": "",
-      "h2": "MLP-uroven3-nadpis",
-      "h3": "",
+      "h2": "MLP-uroven2-kapitola\nMLP_uroven1_cast\nMLP_uroven1_zvlastni_pripady",
+      "h3": "MLP-uroven3-nadpis",
       "h4": "",
       "hr": "",
       "hrBefore": "",
       "hrAfter": "",
       "br": "",
-      "brBefore": "MLP_text_bez1radku\nMLP_text_bez1radku_-0-12-\nMLP_text_bez1radku_-12-0\nMLP-text-bez1radku\nMLP-text-bez1radku--0-12\nMLP-text-bez1radku--12-0\nMLP_dopis_bez1radku",
+      "brBefore": "MLP-text-bez1radku\nMLP-text-bez1radku--0-12\nMLP-text-bez1radku--12-0\nMLP_dopis_bez1radku\nMLP_text_bez1radku\nMLP_text_bez1radku_-0-12-\nMLP_text_bez1radku_-12-0",
       "brAfter": "",
-      "blockquote": "MLP_verse_-0-12-\nMLP_verse_-12-12-\nMLP-dopis-bez1radku--I",
-      "figure": "MLP_obrazky\nMLP-obrazky",
-      "em": "MLP_znak_kurziva_11b\nMLP_dopis_podpis_-I-\nMLP_titulka_prekladatel\nMLP-dopis-bez1radku--I\nMLP-text--I\nMLP-text-uprostred--I\nMLP-verse\nMLP-verse.+\nMLP-znak-kurziva-11b\nMLP-znak-kurziva-9b\nMLP-znak-tucna-kurziva-11b",
-      "strong": "MLP-tiraz-autor-a-nazev\nMLP-licence-paragraf",
+      "blockquote": "MLP-dopis-bez1radku--I\nMLP_verse_-0-12-\nMLP_verse_-12-12-",
+      "figure": "MLP-obrazky\nMLP_obrazky",
+      "em": "MLP-dopis-bez1radku--I\nMLP-text--I\nMLP-text-uprostred--I\nMLP-verse\nMLP-verse.+\nMLP-znak-kurziva-11b\nMLP-znak-kurziva-9b\nMLP-znak-tucna-kurziva-11b\nMLP_dopis_podpis_-I-\nMLP_titulka_prekladatel\nMLP_znak_kurziva_11b",
+      "strong": "MLP-licence-paragraf\nMLP-tiraz-autor-a-nazev",
       "remove": "",
       "ignore": ""
     },
@@ -94,8 +94,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Citát"
+            "title": "Citát",
+            "children": []
           },
           {
             "filename": "peckova_jama_006.md",
@@ -107,9 +107,9 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
             "title": "Bdělá pod Bezdězem",
-            "subtitle": ""
+            "subtitle": "",
+            "children": []
           },
           {
             "filename": "peckova_jama_007.md",
@@ -121,8 +121,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Kuří Vody"
+            "title": "Kuří Vody",
+            "children": []
           },
           {
             "filename": "peckova_jama_008.md",
@@ -134,8 +134,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Cestou necestou"
+            "title": "Cestou necestou",
+            "children": []
           },
           {
             "filename": "peckova_jama_009.md",
@@ -147,8 +147,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Na stopě"
+            "title": "Na stopě",
+            "children": []
           },
           {
             "filename": "peckova_jama_010.md",
@@ -160,8 +160,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Dobrá rada"
+            "title": "Dobrá rada",
+            "children": []
           },
           {
             "filename": "peckova_jama_011.md",
@@ -173,8 +173,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Už…"
+            "title": "Už…",
+            "children": []
           },
           {
             "filename": "peckova_jama_012.md",
@@ -186,8 +186,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Pod Andělskými křídly"
+            "title": "Pod Andělskými křídly",
+            "children": []
           },
           {
             "filename": "peckova_jama_013.md",
@@ -202,9 +202,18 @@
             "children": []
           }
         ]
+      },
+      {
+        "isSection": true,
+        "inToc": true,
+        "id": "section-2",
+        "children": [],
+        "listType": "plain"
       }
     ],
-    "replacements": []
+    "replacements": [
+      {}
+    ]
   },
   "epub": {
     "metadata": {
@@ -371,6 +380,6 @@
       "user": "books-are-next",
       "repo": "ivan-binar-peckova-jama"
     },
-    "generatedAt": 1649315603820
+    "generatedAt": 1649316457095
   }
 }
