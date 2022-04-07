@@ -1,36 +1,38 @@
 ---
 outputs: meta
 slug: book
-
-languageCode: en-US
+contentType: prose
+languageCode: en
 meta:
-  title: "Next-book Boilerplate"
-  author: "Author Name"
-  publisher: mkp
-  published: 2020
-  keywords: []
-  edition: beletrie
-chapters:
-  - where-i-lived-and-what-i-lived-for.html
-  - reading.html
-  - sounds.html
-  - solitude.html
+  title: Peckova jáma
+  identifier: urn:uuid:296c0919-9963-415a-a386-6c26c077b931
+  author: Ivan Binar
+  publisher: Městská knihovna v Praze
+  modified: '2022-02-24T00:00:00.000Z'
+readingOrder:
+  - peckova_jama_001.html
+  - peckova_jama_002.html
+  - peckova_jama_003.html
+  - peckova_jama_004.html
+  - peckova_jama_005.html
+  - peckova_jama_006.html
+  - peckova_jama_007.html
+  - peckova_jama_008.html
+  - peckova_jama_009.html
+  - peckova_jama_010.html
+  - peckova_jama_011.html
+  - peckova_jama_012.html
+  - peckova_jama_013.html
 tocBase:
-  - link: where-i-lived-and-what-i-lived-for.html
-    title: Where-i-lived-and-what-i-lived-for
-    numberedChildren: true;
-    children:
-      - link: reading.html
-        title: Reading
-      - link: sounds.html
-        title: Sounds
-  - link: solitude.html
-    title: Solitude
+  - id: section-1
+    children: []
+    isSection: true
 static:
   - style
   - scripts
+  - title
   - fonts
-  - images
+  - resources
   - template-images
   - favicon.png
 ---
