@@ -2,18 +2,19 @@
 outputs: meta
 slug: book
 contentType: prose
-languageCode: en
+languageCode: cs
 meta:
+  languageCode: cs
+  contentType: prose
   title: Peckova jáma
   identifier: urn:uuid:296c0919-9963-415a-a386-6c26c077b931
   author: Ivan Binar
   publisher: Městská knihovna v Praze
   modified: '2022-02-24T00:00:00.000Z'
+  isbn: 978-80-274-2182-4; 978-80-274-2181-7; 978-80-274-2183-1
+  publisherShort: MKP
 readingOrder:
-  - peckova_jama_001.html
   - peckova_jama_002.html
-  - peckova_jama_003.html
-  - peckova_jama_004.html
   - peckova_jama_005.html
   - peckova_jama_006.html
   - peckova_jama_007.html
@@ -22,11 +23,33 @@ readingOrder:
   - peckova_jama_010.html
   - peckova_jama_011.html
   - peckova_jama_012.html
-  - peckova_jama_013.html
+  - colophon.html
 tocBase:
   - id: section-1
-    children: []
+    children:
+      - link: peckova_jama_006.html
+        title: Bdělá pod Bezdězem
+        hiddenTitle: false
+      - link: peckova_jama_007.html
+        title: Kuří Vody
+        hiddenTitle: false
+      - link: peckova_jama_008.html
+        title: Cestou necestou
+        hiddenTitle: false
+      - link: peckova_jama_009.html
+        title: Na stopě
+        hiddenTitle: false
+      - link: peckova_jama_010.html
+        title: Dobrá rada
+        hiddenTitle: false
+      - link: peckova_jama_011.html
+        title: Už…
+        hiddenTitle: false
+      - link: peckova_jama_012.html
+        title: Pod Andělskými křídly
+        hiddenTitle: false
     isSection: true
+    listType: plain
 static:
   - style
   - scripts
