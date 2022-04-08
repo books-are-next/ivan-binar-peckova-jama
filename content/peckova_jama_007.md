@@ -1,8 +1,7 @@
 ---
+title: Kuří Vody
 contentType: prose
 ---
-
-Kuří Vody
 
 1
 

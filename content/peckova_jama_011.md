@@ -1,8 +1,7 @@
 ---
+title: Už…
 contentType: prose
 ---
-
-Už…
 
 1
 
