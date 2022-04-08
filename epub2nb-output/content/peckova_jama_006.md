@@ -1,8 +1,7 @@
 ---
+title: Bdělá pod Bezdězem
 contentType: prose
 ---
-
-Bdělá pod Bezdězem
 
 1
 

@@ -1,8 +1,7 @@
 ---
+title: Na stopě
 contentType: prose
 ---
-
-Na stopě
 
 1
 

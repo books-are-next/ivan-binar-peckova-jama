@@ -1,8 +1,7 @@
 ---
+title: Cestou necestou
 contentType: prose
 ---
-
-Cestou necestou
 
 1
 

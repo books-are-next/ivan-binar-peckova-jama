@@ -1,8 +1,7 @@
 ---
+title: Dobrá rada
 contentType: prose
 ---
-
-Dobrá rada
 
 1
 
