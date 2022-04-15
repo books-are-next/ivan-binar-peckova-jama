@@ -16,7 +16,7 @@
       "subtitle": "",
       "h2": "MLP_uroven2_kapitola",
       "h3": "MLP_uroven3_nadpis",
-      "h4": "",
+      "h4": "MLP_uroven3_nadpis",
       "hr": "",
       "hrBefore": "",
       "hrAfter": "",
@@ -52,7 +52,7 @@
             "filename": "peckova_jama_002.md",
             "xhtml": "peckova_jama_002.xhtml",
             "id": 1,
-            "role": "break",
+            "role": "chapter",
             "listType": "plain",
             "inToc": false,
             "hungry": false,
@@ -201,14 +201,16 @@
             "hiddenTitle": false,
             "children": []
           }
-        ]
+        ],
+        "devoured": false
       },
       {
         "isSection": true,
         "inToc": true,
         "id": "section-2",
         "listType": "plain",
-        "children": []
+        "children": [],
+        "devoured": false
       }
     ],
     "replacements": []
@@ -378,6 +380,6 @@
       "user": "books-are-next",
       "repo": "ivan-binar-peckova-jama"
     },
-    "generatedAt": 1649409483614
+    "generatedAt": 1650052362155
   }
 }
