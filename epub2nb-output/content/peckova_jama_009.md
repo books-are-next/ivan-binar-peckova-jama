@@ -3,7 +3,7 @@ title: Na stopě
 contentType: prose
 ---
 
-1
+### 1
 
 > Cesta je prach  
 > a štěrk  
@@ -188,7 +188,7 @@ Kdekdo tvrdí, že má pravdu… Existuje pravda objektivní, absolutní, pravda
 
 Nezbývá než pokračovat v cestě kolem světa…
 
-2
+### 2
 
   
 
@@ -538,7 +538,7 @@ Strážci ve strážních posedech, ač solidně vyzbrojeni a vybaveni strážn
 
 „Budu se za něj modlit,“ slíbila Marfa Vasiljevna, „a na jeho hrobeček nosit čerstvé květy.“ Pak se ještě dvakrát pravoslavně přežehnala. Když se s tou dobrou ženou loučili, obdarovala každého velikánskou nejarovizovanou kedlubnou ze své zahrádky. Tu největší a nejšťavnatější dostal specialista Longin Pecka. Když mu ji předávala, sklonila hlavu a zadumaně se mu zahleděla na poklopec. Věčná škoda, že už odjíždějí…
 
-3
+### 3
 
   
 
