@@ -3,7 +3,7 @@ title: Bdělá pod Bezdězem
 contentType: prose
 ---
 
-1
+### 1
 
   
 
@@ -231,7 +231,7 @@ Albert Speer, nacista, chodil kolem světa ve věznici. O svém putování si v
 
 Léta jsem si myslel, že bych měl po sobě také něco zanechat, aby to tu bylo, až tu nebudu: zápisky z cesty kolem světa, vyrytou brázdu, jméno v kameni, něco pozitivního. – Ale k čemu by to bylo?
 
-2
+### 2
 
   
 
