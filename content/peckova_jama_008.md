@@ -3,7 +3,7 @@ title: Cestou necestou
 contentType: prose
 ---
 
-### 1
+#### 1
 
   
 
@@ -253,7 +253,7 @@ Nad ránem přiletěl kormorán, dřepl si ke mně.
 
 „Nechápu,“ zakroutil ptačí hlavou, zamával křídly nejdřív naprázdno, nadělal kolem sebe vítr, pak se vznesl. Letěl vzhůru, a když prorazil mračna, začal padat olověný déšť.
 
-### 2
+#### 2
 
   
 
@@ -441,7 +441,7 @@ V dřívějších dobách se cestovatelé nemohli rozhodnout pro cestu kolem sv
 
 Z hlubokého nebe se mi zatočila hlava. Dech se úží, úzkost mě svírá, propadám zoufalství. A tu na mne mezi hvězdami jedna hvězdička vyjukne, modře pomrkává, kyne mi: Pojď! Pojď za mnou… Nic neslibuje, ale já tuším příslib čehosi báječného. Nořím ruce do vln a hrabu jimi jako čubička v požární jímce. Prám se dává do pohybu, směr modrá hvězda, hvězda vytoužená.
 
-### 3
+#### 3
 
   
 
@@ -562,7 +562,7 @@ Laskavá ruka se mne ujímá, ležím na palubě s hlavou podloženou svinutým
 
 Když mě nasytili a napojili, když jsem do sebe vecpal třetí nášup, odvedli mě do podpalubí a určili místo, na kterém teď budu pobývat: třetí lavice na levoboku. A pak mě přikovali k veslu mezi zadumaného Seveřana a černocha s oslnivým úsměvem. Galéra nemusí čekat na příznivý vítr, dokáže plout i v bezvětří. Když je potřeba, i proti větru.
 
-### 4
+#### 4
 
   
 
@@ -718,7 +718,7 @@ Ani nevíš, jak rád bych byl s Tebou teď, za chvilku, napořád…
 
 _Tvůj Oldřich_
 
-### 5
+#### 5
 
   
 
@@ -897,7 +897,7 @@ Co je napsané, je literatura, i kdyby to byla pravda.
 
 … a veslujem, a veslujem… bum, bum, bumbum, bumbum, bumbum… hrachová kaše, suchary, voda, pitná voda, teplá voda, slaná voda, voda voda, samá voda… bum, bum, bumbum, bumbum, bumbum… mrtvého očkovali, do vody hodili, ryby nakrmili… voda, voda… bum, bum, bumbum, bumbum, bumbum, bum…
 
-### 6
+#### 6
 
   
 
