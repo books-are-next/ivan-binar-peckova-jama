@@ -35,6 +35,7 @@
         "isSection": true,
         "id": "section-1",
         "listType": "plain",
+        "devoured": false,
         "children": [
           {
             "filename": "peckova_jama_001.md",
@@ -52,7 +53,7 @@
             "filename": "peckova_jama_002.md",
             "xhtml": "peckova_jama_002.xhtml",
             "id": 1,
-            "role": "chapter",
+            "role": "break",
             "listType": "plain",
             "inToc": false,
             "hungry": false,
@@ -201,16 +202,15 @@
             "hiddenTitle": false,
             "children": []
           }
-        ],
-        "devoured": false
+        ]
       },
       {
         "isSection": true,
         "inToc": true,
         "id": "section-2",
         "listType": "plain",
-        "children": [],
-        "devoured": false
+        "devoured": false,
+        "children": []
       }
     ]
   },
@@ -379,6 +379,6 @@
       "user": "books-are-next",
       "repo": "ivan-binar-peckova-jama"
     },
-    "generatedAt": 1650053067891
+    "generatedAt": 1650828953505
   }
 }
