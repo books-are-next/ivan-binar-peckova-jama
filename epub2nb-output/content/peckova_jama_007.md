@@ -3,7 +3,7 @@ title: Kuří Vody
 contentType: prose
 ---
 
-#### 1
+## 1
 
   
 
@@ -202,7 +202,7 @@ Někdy se vyplatí uhnout z přímé, vyšlapané cesty kolem světa a zabrous
 
 Když se velikán přeřítí a zmizí s lupem z luk, ty mrňavé, červené a voňavé titěrnosti jsou celé pomačkané, ale ne všechny, všechny ne, některé se přikrčily a zůstaly tu pro mne, nenasytného polykače krásy.
 
-#### 2
+## 2
 
   
 
