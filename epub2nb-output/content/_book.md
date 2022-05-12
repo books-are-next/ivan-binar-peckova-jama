@@ -14,7 +14,7 @@ meta:
   isbn: 978-80-274-2182-4; 978-80-274-2181-7; 978-80-274-2183-1
   publisherShort: MKP
 readingOrder:
-  - peckova_jama_002.html
+  - promo.html
   - peckova_jama_005.html
   - peckova_jama_006.html
   - peckova_jama_007.html

@@ -1,22 +1,34 @@
 {
-  "author": "Ivan Binar",
-  "contenttype": "prose",
-  "identifier": "binar-peckova-jama-7bab54b",
-  "isbn": "978-80-274-2182-4; 978-80-274-2181-7; 978-80-274-2183-1",
-  "languagecode": "cs",
-  "modified": "2022-02-24T00:00:00.000Z",
-  "publisher": "Městská knihovna v Praze",
-  "publishershort": "MKP",
+  "preview": {
+    "isPreview": false
+  },
   "title": "Peckova jáma",
-  "revision": "7bab54b",
+  "author": "Ivan Binar",
+  "publisher": "Městská knihovna v Praze",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "binar-peckova-jama-873ba71",
+  "revision": "873ba71",
+  "readingOrder": [
+    "promo.html",
+    "peckova_jama_005.html",
+    "peckova_jama_006.html",
+    "peckova_jama_007.html",
+    "peckova_jama_008.html",
+    "peckova_jama_009.html",
+    "peckova_jama_010.html",
+    "peckova_jama_011.html",
+    "peckova_jama_012.html",
+    "colophon.html"
+  ],
   "generatedAt": {
-    "date": "Sun May 01 2022 22:26:15 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1651443975376
+    "date": "Thu May 12 2022 10:44:01 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1652352241064
   },
   "documents": [
     {
-      "title": "Peckova jáma",
-      "file": "peckova_jama_002.html",
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
       "words": 0,
       "chars": 0,
       "ideas": 0,
@@ -24,15 +36,7 @@
       "order": 0,
       "prev": null,
       "next": "peckova_jama_005.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
+      "toc": []
     },
     {
       "title": "Peckova jáma",
@@ -42,7 +46,7 @@
       "ideas": 5,
       "role": "chapter",
       "order": 1,
-      "prev": "peckova_jama_002.html",
+      "prev": "promo.html",
       "next": "peckova_jama_006.html",
       "toc": [
         {
@@ -55,7 +59,7 @@
       ]
     },
     {
-      "title": "Bdělá pod Bezdězem • Peckova jáma",
+      "title": "Bdělá pod Bezdězem",
       "file": "peckova_jama_006.html",
       "words": 10133,
       "chars": 63029,
@@ -90,7 +94,7 @@
       ]
     },
     {
-      "title": "Kuří Vody • Peckova jáma",
+      "title": "Kuří Vody",
       "file": "peckova_jama_007.html",
       "words": 10309,
       "chars": 63355,
@@ -125,7 +129,7 @@
       ]
     },
     {
-      "title": "Cestou necestou • Peckova jáma",
+      "title": "Cestou necestou",
       "file": "peckova_jama_008.html",
       "words": 28162,
       "chars": 174750,
@@ -188,7 +192,7 @@
       ]
     },
     {
-      "title": "Na stopě • Peckova jáma",
+      "title": "Na stopě",
       "file": "peckova_jama_009.html",
       "words": 21303,
       "chars": 132251,
@@ -230,7 +234,7 @@
       ]
     },
     {
-      "title": "Dobrá rada • Peckova jáma",
+      "title": "Dobrá rada",
       "file": "peckova_jama_010.html",
       "words": 8228,
       "chars": 50047,
@@ -265,7 +269,7 @@
       ]
     },
     {
-      "title": "Už… • Peckova jáma",
+      "title": "Už…",
       "file": "peckova_jama_011.html",
       "words": 11193,
       "chars": 69260,
@@ -300,7 +304,7 @@
       ]
     },
     {
-      "title": "Pod Andělskými křídly • Peckova jáma",
+      "title": "Pod Andělskými křídly",
       "file": "peckova_jama_012.html",
       "words": 2050,
       "chars": 12161,
@@ -320,11 +324,11 @@
       ]
     },
     {
-      "title": "Tiráž • Peckova jáma",
+      "title": "Tiráž",
       "file": "colophon.html",
-      "words": 140,
-      "chars": 916,
-      "ideas": 21,
+      "words": 121,
+      "chars": 784,
+      "ideas": 15,
       "role": "colophon",
       "order": null,
       "prev": "peckova_jama_012.html",
@@ -342,9 +346,9 @@
   ],
   "totals": {
     "all": {
-      "words": 91546,
-      "chars": 565922,
-      "ideas": 1981
+      "words": 91527,
+      "chars": 565790,
+      "ideas": 1975
     },
     "chapters": {
       "words": 91401,
