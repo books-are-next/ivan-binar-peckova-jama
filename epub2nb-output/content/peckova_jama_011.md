@@ -3,6 +3,8 @@ title: Už…
 contentType: prose
 ---
 
+<section>
+
 ## 1
 
 „Co s tím, Pecko, uděláme?“ zeptal se kapitán Kotulán vojína spe­cialisty Longina Pecky a měl na mysli nemožnou zlatou barvu obou jejich vozidel. Lze-li také polní kuchyni nazvat vozidlem… Proč ne? Vždyť je na kolečkách. Ostatně, co by si bez ní počali! Nejenže slouží svému původnímu účelu a sytí, je také utajeným arzenálem potřeb nezbytných k vedení války a pod roštem v ohnivzdorném balení ukrývá jejich finance v hotovosti – kdo by věřil bance, Bance Kyjevance –, takže je vozidlem nepostradatelným. A také nebezpečným. Kdyby její tajemství odhalila policie, zbytečným opletačkám by se nevyhnuli. Vždyť by jim to všecko mohli zabavit! Vždyť to neměli deklarováno a procleno, vždyť to mají načerno! Kotulán se obával, že by zlaté zbarvení mohlo přilákat pozornost orgánů činných v trestním řízení a narušit, nebo dokonce zhatit jejich ušlechtilý záměr, který měli se Sovětským svazem.
@@ -27,7 +29,9 @@ Kdyby poslal na výzvědy Longina Pecku, mohli by o něj přijít a to by byla
 
 Veliteli nezbylo než závažným vyzvědačským úkolem pověřit jedinou profesionální vojenskou osobu, kterou měl k dispozici, i když k vyzvědačství nevycvičenou, přesto však nejvhodnější – praporčici Melodii Podpolanskou-Křoupalovou.
 
-  
+</section>
+
+<section>
 
 O cáru Puťkinovi, záměrném demokratu a osvíceném despoto­vi, jsme se tu zmínili jen okrajově, protože nijak nezasahoval do našeho válečného příběhu. Od Sovětského svazu se oficiálně distan­cuje, tvrdí, že s ním nemá nic společného, ba naopak, za dob Sovětského svazu žádným cárem nebyl a nemohl být, protože to bylo zakázané. V Sovětském svaze nikdo cárem být nesměl. Cár Puťkin se klene nad naším příběhem jako panovník velikán, jejž nezajímá pachtění jeho jednotlivých poddaných nebo i jinostranných nezvaných návštěvníků rozlehlé, překrásné země, samotným bohem mu svěřené k moudrému spravování poté, co se Sovětský svaz v Alma-Atě zrušil a ostatní zájemci o zodpovědný cárský úřad ostrouhali kolečka, odpadli nebo upadli, zapadli, padli. Posláním cára Puťkina je správa celé té obrovité země i zemí ostatních, cár se musí zabývat záležitostmi velkými, těmi největšími, celosvětovými, planetárními a vesmírnými. Vždyť je hlavou největší, nejskvělejší a nejvznešenější říše, která tu po Sovětském svazu zbyla.
 
@@ -43,7 +47,9 @@ Po nějakém čase pravidelného noření a putování noční Moskvou cár Pu�
 
 Tolik o cáru Puťkinovi, abychom si náš válečný příběh snadněji zařadili do historického kontextu.
 
-  
+</section>
+
+<section>
 
 Majitel Stadionu Jurije Gagarina v Petuškách Bogomilov se uvolil, že Melodii Podpolanskou do Moskvy na výzvědy zaveze svým zlatým gazíkem se zlatou polní kuchyní, aby nenápadně vklouzla do města a zhostila se svého citlivého úkolu. Kotulán se zaradoval, že diva špion­ka nemusí jezdit vlakem, neboť železniční trať Moskva–Petušky, Petušky–Moskva má velice špatnou pověst. Jezdí tudy příliš mnoho opilců, kteří do sebe lijí nehorázné alkoholické koktejly, a ti by se mohli pokusit své patoky nalít také do atraktivní zrzky ve večerních šatech pošitých flitry, ve zlatých střevíčkách s neuvěřitelně vysokými podpatky, nebo by ji mohli pozvracet. V gazíku kapitalisty Bogomilova jí snad něco takového nehrozí.
 
@@ -107,7 +113,9 @@ Felicie Bolivie by nejraději zvedla poklop a explozivní Melodii Podpolanskou 
 
 „To je jiná káva, paní vedoucí. Tak dobře, ukecalas mě,“ přikývla nakonec Melodie. Aspoň získá čas v důstojnějších podmínkách, aby se pak mohla porozhlédnout a z Pod Poklopu vyrazit za plněním vyzvědačského úkolu. V Petuškách na stadionu už na ni jistě ne­trpělivě čekají…
 
-  
+</section>
+
+<section>
 
 Když člověk někam jde – kupříkladu kolem světa –, nemůže pořád jenom jít. Někdy si musí také odpočinout, i to se počítá, také odpočinek patří k cestě.
 
@@ -115,7 +123,9 @@ Opřený o žbrlení uviděl jsem na hladině říčky plné všelijakého svin
 
 To je, panečku, něco! Jít si jen tak bez cíle, flákat se zbůhdarma životem a nevytvářet žádné hodnoty: nedolovat uhlí, nevyrábět elektři­nu, nestavět domy a nesít obilí… Takovéto nicnedělání kamuflovat cestou kolem světa, jako by zrovna to bylo někomu k užitku…
 
-  
+</section>
+
+<section>
 
 Sovětský svaz se tuze pěkně staral o veterány ze všech válek, které mu vyhráli. Většina účastníků v těch válkách padla nebo už zemřeli. Těm se dostalo důstojných společných hrobečků se jmény a hvězdičkami, s kovaným plůtkem kolem dokola. Ty, kteří nepadli, ověšel Sovětský svaz blýskavými medailemi na pestrobarevných stuhách a vybavil právem předbíhat ostatní občany ve frontě na chleba a zelí. Mohli si také koupit se slevou saka vyztužená drátěným pletivem, aby unesla váhu vyznamenání a nepotrhala se.
 
@@ -125,7 +135,9 @@ Tentokrát šlo o vyhlídkovou plavbu účastníků Velké vlastenecké války 
 
 Bylo to milé, opravdu velmi milé a neočekávané překvapení, když je Líza Protopopovovová, manažerka a zároveň animátorka zájezdu, provedla pěkně spořádaně v dvojstupu Arbatem, propletla je davy Moskvičů a jinostranných turistů kolem pomníku Bulata Okudžavy ke kanálovému poklopu již zvednutému. Po jednom za sebou podle velikosti, aby nedocházelo k hádkám, kdo poleze první a kdo hned za ním, sestoupali magadanští veteráni Pod Poklop.
 
-  
+</section>
+
+<section>
 
 V dlouhých večerních šatech z temně rudého sametu pošitých blýskavými flitry až po zem, s dekoltáží napovídající slast všech slastí, s rudým vlasem a ještě rudějšími rety – jako by si před vystoupením lokla čerstvě nacezené krve podtatranských panen – připlula na jevišťátko baru Pod Poklopem Melodie Podpolanská. Veteráni z Magadanu usazení kolem kulatých stolků pozvedli hlavičky od sklenek s medovinou a ti, kteří dohlédli až na Melodii, s nezavřenými ústy na ni udiveně hleděli. Ti ostatní, hůře vidící, sáli dál svoji medovinu. Také ostatní publikum v sále i u barového pultu zbystřilo pozornost.
 
@@ -139,64 +151,84 @@ Nenechala se dlouho přemlouvat, vystoupila znovu na pódium a ohlásila píse�
 
 „Nyní vám, drazí přátelé, zazpívám oblíbený song o hrdinském kousku komsomolky Marty z operety Fraise, Podhrázkého a Schiffauera Syn pluku!“ Melodie objala štíhlými prsty mikrofon, poučena minulým nedorozuměním špitla do něj: Užé! A slepý pianista už věděl, co má dělat.
 
-  
+</section>
+
+<section>
 
 > „Padají miny a nepadá karta,  
 > všechno se vaří v kotli válečném.  
 > Na frontě kdesi komsomolka Marta  
 > hrdinně zmírá v boji statečném…,“
 
-  
+</section>
+
+<section>
 
 zpívala procítěně Melodie Podpolanská.
 
-  
+</section>
+
+<section>
 
 > „U průzkumníků byla zdravotnicí,  
 > snad jeden každý v noci o ní snil.  
 > Byla jim sestrou a věděli všici,  
 > že běda tomu, kdo by ji zneuctil.
 
-  
+</section>
+
+<section>
 
 > I v stěngazetě jednou o ní psali,  
 > to proto, že ta dívka přesvatá  
 > po těžkých bojích, kdy už všichni spali,  
 > odvšivovala jejich kaťata.
 
-  
+</section>
+
+<section>
 
 > Válka je válka, nepřítel přeukrutný,  
 > dochází jídlo, nejsou náboje.  
 > Průzkumný oddíl vidí, že je nutný,  
 > aby z nich někdo zemřel vestoje.
 
-  
+</section>
+
+<section>
 
 > Marta-komsomolka veliteli dává  
 > předrahou pro ni partajní bumážku,  
 > do ohně kulometu rovnou potom vstává,  
 > na prsou trhá zelenou rubašku…“
 
-  
+</section>
+
+<section>
 
 V tu chvíli Melodie nechala Babraljana probírat se chvíli v bílých i černých klávesách, odložila mikrofon na svrchní desku pianina a obnažila nejdřív levé a pak obě ňadra. Ačkoli Pod Poklopem nebyla obnažená dámská prsa žádnou vzácností, cosi takového tu ještě neměli. No a veteráni z Magadanu, kteří byli v moskevském podzemí poprvé, nemohli uvěřit vlastním očím, kravatami si čistili brýle a rychle si je znovu nasazovali v obavách, že Melodie vrátí tu krásu zpátky pod flitry. Ale Melodie dozpívala píseň s prsy obnaženými.
 
-  
+</section>
+
+<section>
 
 > „Na slunci svítí ňadra běloskvoucí,  
 > nepřítel z toho celý zmaten je,  
 > než stiskne spoušť svou rukou nemohoucí,  
 > k záchraně jeho příliš pozdě je.
 
-  
+</section>
+
+<section>
 
 > Padají miny a nepadá karta,  
 > Fricek proklatý stále vzdoruje.  
 > Ač zahynula komsomolka Marta,  
 > v paměti lidí všechny přežije.“
 
-  
+</section>
+
+<section>
 
 Melodie dozpívala, hluboce se uklonila a ňadra jí sama vhupla zpátky do výstřihu.
 
@@ -226,7 +258,9 @@ Neznámý knírač pak pozval Melodii Podpolanskou na skromnou opožděnou intim
 
 Do Kremlu na skromnou opožděnou intimní večeři jela Melodie s cárem v červeném lamborghini; cár řídil a jeho šašek Medvídek Dimka Suchá Sklínka musel s veterány a jejich Lízou Protopopovovovou autobusem, protože do cárského sporťáku by se nevešel. A někdo těm vzácným ometálovaným stařečkům z Magadanu musel ukázat cestu do Kremlu, aby v matičce Moskvě nezabloudili.
 
-  
+</section>
+
+<section>
 
 Cárevna Julija nebyla opožděnou návštěvou v Kremlu příliš nadšena. Přivítala je zakaboněná a zababušená v teplém županu s vyšívanými muchomůrkami. Ruku k políbení sice nabídla každému – tak je zvyklá, tak je naučená –, ale pak se omluvila, že má částečnou migrénu a zítra mají toho japonského velvyslance, ať se tedy nezlobí, že s nimi opožděně intimně večeřet nebude, měla by ráno kruhy pod očima a jak by k tomu velvyslanec japonského císaře přišel. Všichni tyto argumenty pochopili a cárevnu do postele propustili.
 
@@ -272,7 +306,9 @@ A už tu byli číšníci a jídlonosiči s borůvkovou šťávou chlazenou s
 
 „Tak tohle je ten carevnin koláč!“ řekla si potichoučku Melodie Podpolanská a stříbrnou dezertní vidličkou dloubla do snu vídeňského publicisty, vlastence, myslitele a cukráře Christiana Immanuela Kepke-Kapkawského a vzpomněla si na podplukovníka vojína profesora Weinbergera, jeho obdivovatele a badatele, ztraceného v sibiřské tajze. Vložila si sousto carevnina koláče do úst a přivřela oči. Slast se jí rozlila po celém těle, až do konečků prstů.
 
-  
+</section>
+
+<section>
 
 Je to, paňi, na dobré cestě. Do Vánoc by to mohlo být hotové. Možná už do Mikuláše, nejpozději do Nového roku. Ale já bych se vsadila, že do Vánoc, protože co se neudělá do Vánoc, do Nového roku se už těžko dohání, a nakonec můžeme být rádi, když je to někdy po Třech králích hotové. To už se pak jenom čeká, jako by měl přijít konec světa. A pak zase nanovo. Ale já nemyslím tu aféru, jak se ožralkové otrávili, nejdřív oslepli a pak šlus, konec, to se mě netýká, já žádné svinstvo lihové nepiji, jenom někdy krapet vína sladkého, to ano, ale z toho se neoslepne ani neumře. Kdyby nepili, tak tu ještě mohli být a to všecko, co se tu děje, by viděli na vlastní oči. Neříkám dobře jim tak, ale říkám, kdyby nepili, tak by se jim to nestalo. Ale tohle já nemyslím, paňi, já mám na mysli ty naše vojáky nebo co to je, jak jsou v Rusku a hledají tam ten Sovětský svaz a nemůžou ho najít, tak, jak se zdá, už vědí, kde ho hledat. Byli totiž za jakousi vědmou na Sibiři a ta jim to vyložila v kartách. A představte si, paňi, že se jich cestou pár poztrácelo. O tom Weinbergerovi z Nuslí jsem vám už vyprávěla, že. Tak toho do žádného otroctví neprodali, mně to bylo hned divné, co by za něj taky mohli utržit, za vědátora jak šindel hubeného. A třeba už i v tom Rusku je pokrok, kdepak, něco takového přece ani v Rusku nejde udělat, vždyť i tam věří v Pána Boha, i když je trochu jinačí, tam ho ukřižovali na jiný kříž než u nás, na pravoslavný. Oni ho tam vzali na jakési bádání do ústavu, toho Weinbergera, a on tam teďka bádá. Až to vybádá, možná se vrátí domů do Nuslí, ale to se bude moc divit. Ty jeho čtyři děvenky už se z Holešovic nehnou, na kytky už se mu vykašlaly, už nechodí do Nuslí zalévat, všechny už mu uschly. Takže je docela možné, že se nevrátí a bude tam bádat dál. Protože, paňi, bádání nemá konce. Takový badatel si nedá pokoj, je to silnější než on – bádá, bádá, bádá, až se ubádá docela a musí přijít někdo jiný, mladší a silnější, aby bádal dál. S tou babou zmalovanou je to na dobré cestě, paňi, ta se taky nevrátí, na to, paňi, vemte jed. Co by se vracela, když tam udělala takové štěstí, ta Melodie. Vy to nevíte? To se jen tak každé důře nepřihodí. On je totiž jejich cár pozval na večeři do Kremlu; jakože když jdou na ten Sovětský svaz, který už jednoho cára zastřelil, svatého Mikuláše i s čertem, že by mohl zastřelit i jej, cára Puťkina, kdyby se zmátořil a zase odněkud vylezl. A tak je pozval na večeři, jakože jsou pro Rusko užiteční. To je jako když má medvěd v kožiše blechu, ale v místech, kam si nedošáhne a ona mu tam otravuje život, kdoví jestli není nakažená nějakou smrtelnou ebolií nebo sarsem nebo čím, tak když přijde někdo, a nemusí být žádný silák, stačí, když má šikovné prsty a tu blechu mu z toho kožichu vydělá, tak mu udělá velikou radost. To je, paňi, takové přirovnání, abyste si nemyslela, že tam oni loví blechy, to ne. To jakože ta blecha je Sovětský svaz a oni že jsou ten šikovný a ten medvěd že je Rusko. Tak je pozval všecky, co zbyli, na večeři. Ten cár Puťkin do Kremlu. Ono jich moc nezbylo, to je pravda, tak toho nemuseli v tom Kremlu tolik vařit. A tak jedli a pili, samozřejmě samé dobroty a nic pančovaného, cár na to má, aby si koupil kloudnou, ten nemusí do Billy nebo do tržnice kupovat patoky uvařené někde v prádelním hrnci na plotně z krému na boty. No a tak pili a hodovali, taky jim k tomu hrála muzika fidli pidli do oušek, tak ten cár se zakoukal do té Melodie. Potvora jedna, po světě si běhá, o chudáka manžela plukovníka ve výslužbě se nestará a rozvádět se nechce, mrcha jedna zmalovaná. A pan Křoupal je takový hodný člověk, ten si to nezaslouží, aby se s ním nerozvedla. Třeba teď by se mohla eventuelně, kdoví, ale jak ji znám z vyprávění pana Křoupala, tak ani teď se nerozvede. Tak ten cár, jestli by mu nešla za milenku, že zrovna žádnou nemá a cárevna mu to nemůže odpustit, naléhá, aby už konečně, jak to vypadá, že on je cár a bez milenky. To je pravda, paňi, takové hlavy státu musejí mít milenky, jak by to vypadalo, taky našemu panu prezidentovi museli už kvůli Blesku jednu opatřit a na blond odbarvit, aby si národ o něm třeba něco nemyslel, že je… však víte co, i když děti má, to je pravda, ale kdoví, jsou-li jeho, znáte lidi. Tak ona řekla, že ano, i když není na blond odbarvená, ale prý to nevadí, že ji to válčení už přestává bavit, pořád válčí a nic, tak coby ne. V nejlepších letech taky nemůže být pořád, a tak to vzala. Ani se jí, mrše, nedivím. Té cárevně se tuze ulevilo a hned jí nabídla kus koláče, jakousi vzácnost jí dala, jaká se u pekaře ani v cukrárně neprodává. Jenže tady narazila kosa na kámen. Cárovi to totiž moc nešlo v posteli, ne že by byl na opačné pohlaví, to vůbec ne, ani žádný pedofil, chraň pánbůh, ale těch starostí o takovou obrovitánskou zemi, to vám mužné síly nepřidá, já vím, paňi, že ne vám, tomu cárovi nepřidá, to se jen tak říká – vám, jenom. A ta Melodie, to je uragán, to je smršť, to je torpédo, ta by z chlapa všecky šťávy vysála, a ne z jednoho, ale tolik ještě rozumu měla, že ho nechtěla zahanbit, toho chudinku ustaraného, tak dělala, jakože ano, jenže on to poznal, že ne, chlap to pozná, ani kvůli tomu nemusí být cárem. A bylo mu tuze trapně, tak jí, té nymfomance… tak se, paňi, takovým říká: nymfomanka, tak té nymfomance daroval k narozeninám svoji cárskou gardu i s velitelem – pluk vybraných vojáků; chlapci jako panny, v bílých uniformách, se šavličkami broušenými, na koních. No lepší dárek by pro takovou nevymyslel. Vždyť kvůli vojákům ona se dala na vojnu, jenom aby byla pořád mezi chlapy a mohla s nimi ukájet svůj chtíč. Proto šla do války s tím Kotulánem, protože u nás armádu zrušili a jenom Kotulán se zrušit nenechal. Kdepak v Rusku, tam armádu nikdy nezruší, i když bude mír na celém světě, protože co by měli jiného. Nic bych za to nedala, že ti Kotulánovi vojáci postupně mizeli jenom kvůli ní, kvůli té její náruživosti, protože pro takovou nymfomanku je osm chlapů málo. Tak teď má, co chtěla. Kdepak, paňi, to ona tam zůstane, pluk cárské gardy nikdy nevyčerpá. Ale dárek je to pěkný, to se musí nechat. Nevím, paňi, ke kterým narozeninám, řekla bych ke čtyřicátým, ale nevypadá… Co že do Vánoc? Aha, do Vánoc! To bude Sovětský svaz poražen. Naši stateční vojíni dostanou po medaili od cára a Vánoce už stráví doma pod stromečkem s medailemi. Jako ti naši zlatí chlapci před lety z Nagana. Ono se nemusí proslavovat naši krásnou vlast jenom hokejkami, ale taky vyhranou válkou se Sovětským svazem to jde. Na to nesmíme zapomínat. A ta ženská tam určitě zůstane, i když se s panem Křoupalem nerozvede a nerozvede. No co, tak s ním budu žít na hromádce, stejně je to dneska, paňi, v módě, žít si jen tak s někým na psí knížku, jak se říkávalo ještě za Masaryka, ale to vy už jistě nepamatujete. A já taky ne. Aspoň se pak nemusíte rozvádět.
 
@@ -334,7 +370,9 @@ Mauzoleum bylo zavřené, trefili se zrovna do pondělka a v pondělí mají v
 
 Longin Pecka si hodil přes rameno tašku s vercajkem, monterajznama uvolnili čtyři dlaždice a dali je stranou, spustili Peckovu jámu, zamaskovali ji gazíkem s polní kuchyní a jámou se spustili dolů, kousek rovně a pak zase nahoru. Svědomitý policista hlídal jejich klid a bezpečí.
 
-  
+</section>
+
+<section>
 
 Cestou kolem světa šel jsem kolem Světa v Libni. Konečně ho začali opravovat. Vždyť se už drolil chodcům na hlavu. I lešení, které mělo chodce chránit před opadáváním Světa, začalo uhnívat a odpadávat. V místech, kde býval automat, útočiště opilců v dobách Hrabalových, stal jsem se svědkem pouliční příhody.
 
@@ -354,7 +392,9 @@ Nemám to rád, když z někoho cáká krev, když jeden do druhého mlátí p�
 
 Odběhl jsem na zastávku a pokračoval v cestě kolem světa tramvají. Nikde není psáno, že se kolem světa musí pěšky…
 
-  
+</section>
+
+<section>
 
 Sláva budiž Peckově jámě, která umožnila snadný průnik na nedostupné místo. Co by si bez ní počali… Kolik policistů, strážných a zaměstnanců Mauzolea V. I. Lenina by museli podplatit – šlo-li by to vůbec –, aby se dostali dovnitř a mohli konat? Sláva budiž Peckovi! Co by si bez něj počali u sarkofágu z nerozbitného a neprůstřelného skla, v němž tiše a pokojně spočívají tělesné ostatky velikého revolucionáře a zakladatele Sovětského svazu. Najednou je všecko jasné a logické. Proč by se měl Sovětský svaz plahočit někam na Sibiř a tam se schovávat za Uralem, v Asii, když jeho rodný otec spočívá uprostřed všeho dění, v mauzoleu na Rudém náměstí, a v jeho hlavě je místa habaděj. Tam se zrodil, tam se schoval, tam vyčkává, číhá, připravuje se na své znovuzrození.
 
@@ -394,7 +434,9 @@ Lebeční dutina velkého Lenina zela prázdnotou. Jenom cancourek prastaré pav
 
 „Velitel nese odpovědnost,“ řekl kapitán Kotulán. Sáhl pravičkou pro pistoli, přiložil si hlaveň ke spánku a zmáčkl spoušť.
 
-  
+</section>
+
+<section>
 
 _Petušky, neděle_
 
@@ -417,3 +459,5 @@ P. S.: Válku jsme, Aničko, nevyhráli, ale žiju. I prohraná válka je vlas
 
 _Sbohem  
 O._
+
+</section>

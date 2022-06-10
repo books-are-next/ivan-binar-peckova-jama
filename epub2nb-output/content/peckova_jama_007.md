@@ -3,6 +3,8 @@ title: Kuří Vody
 contentType: prose
 ---
 
+<section>
+
 ## 1
 
 Polnice zahlaholila, vojska seskočila z paland a vskočila do bot, plnou polní na záda, samopal do ruky, plembák na hlavu, nástup na útvarovém buzerplacu. Hlášení veliteli útvaru kapitánu Kotulánovi o nastoupenosti útvaru podal staršina nadrotmistr Prkénko. „Zařaďte se!“ A potom jasný, bezproblémový hlas velitele, aktivního důstojníka, muže, který vyhlásil válku Sovětskému svazu:
@@ -11,35 +13,45 @@ Polnice zahlaholila, vojska seskočila z paland a vskočila do bot, plnou poln
 
 „Útvare, pozor! Pohov, volno, zpívat! Levá – levá, raz dva, raz dva!“
 
-  
+</section>
+
+<section>
 
 > Podaj milá rúčku ručku na rozlučku  
 > možná že poslední raz  
 > Nadišla chvíla já musím do boja  
 > musím si splnit svoj rozkaz
 
-  
+</section>
+
+<section>
 
 > My do boja íšli celé dni a noci  
 > nám jasné hviezdy svietili  
 > káťuše bíli a my nastupáli  
 > jeden po druhom padali – levá dva, raz dva!
 
-  
+</section>
+
+<section>
 
 > Viděl som tam víděl svojho kamaráta  
 > jak na zem padol eště žil  
 > z hrudi červéna krv mu vytiekála  
 > posledné slová hovoril – raz dva, raz dva!
 
-  
+</section>
+
+<section>
 
 > Napiště otcóvi, napiště to mamke  
 > napiště mójej milej  
 > že ostrá gúlka zranila hruď móju  
 > padám za rodinu svoju – levá, levá, levá!
 
-  
+</section>
+
+<section>
 
 > Něbolo otěcka, něbolo mamičky  
 > něbolo jeho milej  
@@ -48,7 +60,9 @@ Polnice zahlaholila, vojska seskočila z paland a vskočila do bot, plnou poln
 > Len kamaráti nad nim zaplakáli  
 > keď ho do hrobu dávali. – Dozpívat!
 
-  
+</section>
+
+<section>
 
 Šli v sevřených řadách s kapitánem Kotulánem v čele. Táhli na Sovětský svaz. Nebylo jich mnoho, byli však odhodláni zvítězit.
 
@@ -90,11 +104,15 @@ Našli je v armě a byli tam sami, bez armaře Baránka, bez řevu opíjejíc�
 
 „Armada byla zrušena!“
 
-  
+</section>
+
+<section>
 
 Ten profesor Weinberger, paňi, ten badatel, co žije v bytě tři plus jedna u nás v Nuslích na hromádce se čtyřmi děvčátky přímo z Bali, ten, co se neustále pídí po pozůstalosti a po stopách vídeňského cukráře z Uhelného trhu Kepke-Kapkawského, tak ten profesor už s nimi v Nuslích nežije. Jestli si, paňi, myslíte, že z toho mostu skočil, kde na něho číhává Pytlíček, tak to žijete v hlubokém omylu: neskočil. A Pytlíček na něj už taky přestal číhat. Představte si, paňi, ti dva se dali do holportu a přidali se k jakýmsi bláznům, co si hrajou na vojáky na písku v Podbezdězí. Jako by vůbec nevěděli, že armáda byla zrušena. Potáhnou prý na říši zla! Jako by nevěděli, že Sovětský svaz se už dávno rozpadl. Sám, bez nich. Přece nebude čekat, až ho nějací blázni… od bláznů, paňi, dál. Od bláznů se nedá čekat nic rozumného. No a ty čtyři chudinky? Představte si, paňi, ty čtyři překrásné ubožačky prodal ten sviňák do Holešovic jakési Kotulánové, podnikatelce. Určitě za hromadu peněz, takové pěkné, až z Bali. Nejdřív prodávala podprsenky, nasekala na nich pořádný balík, na pušapkách, to víte, každá to chce nosit zvednuté, šikovná ženská pro obchod. A teď si, představte si to, paňi, hned naproti přístavu otevřela puf! St. Pauli se to jmenuje, aby nedocházelo k mýlce, a ty holčiny ubohé tam prodává, paňi, říčním námořníkům a gastarbajtrům z bývalého SSSR. – A ještě něco vám, paňi, řeknu, jako by toho nebylo dost: její manžel, takový jalový frajírek a nefachčenko v botách do půl lýtek a khaki bundokošili, má ty pošukané vojáky, toho Weinbergera a Pytlíčka, a ještě celá banda jich tam je v lesích, tak celou tu bandu má ten Kotulán pod komandem. Ženy si nehledí, jenom vojáci, vojáci, nic než vojáci, jestli on není, paňi, víte, co myslím. Nic bych za to nedala, že ten Kotulán to všechno spískal. A teď to mají. Pár nešťastných lidí a… a nic. – Kdyby se ten profesor věnoval radši svému bádání a svým děvčatům, když už je dovláčel až do Nuslí, mohl si spokojeně skočit z mostu, Pytlíčkoví by tím udělal radost, holky by po něm dědily. Beztak jenom knihovnu, co jiného takový badatel může po sobě kloudného zanechat, a kupu počmáraných papírů, ale i tak, prodá se to do sběru nebo do antikvariátu a hned je na kafíčko. Lepší, paňi, než rezavým drátem do oka, to vám řeknu. Takhle je, paňi, kupa nešťastných lidí na jeden ráz.
 
-  
+</section>
+
+<section>
 
 A tu mě napadlo, že jdu kolem světa, protože se bojím. Kdybych zůstal doma, mohli by mě tam najít a donutit – už jsem v tom věku –, abych vylezl do větví. Mohli by zazvonit u dveří, lapit mě… A šup s ním na strom! Běda tomu, koho setřesou. Předpokládám, že mě by nesetřásli, vždyť ještě uvezu kolečko kamení od žlebu do zahrady. To by bylo, abych se neudržel na stromě. – Jenže co kdybych v rozhodujícím okamžiku podlehl náhlé slabosti? Vždyť i docela mladý člověk mívá slabé chvilky a mohl by v takové zkoušce podlehnout, pokud by jí byl vystaven. Jenže mladému to nehrozí… Právě proto kráčím kolem světa, rázuji zdatně, předstíraje nezdolnost a znamenitou kondici. A rozhlížím se obezřetně, nejsou-li mi v patách. Vždyť jistotu nemáme ani na cestě.
 
@@ -102,7 +120,9 @@ Snad by jednou z možností mohla být jáma. V té bych se schoulil a pěkn�
 
 Taky mě napadlo, že jdu kolem světa, protože se bojím nejít. Jdu kolem světa, abych nezůstal sobě napospas. Mohlo by se mi přihodit něco horšího? Utíkám sám před sebou. – Mašíruju kolem světa, cesta ubíhá, čas utíká, nohy bolí, tělo se unaví, dobře se pak usíná, bez vtíravých snů se sladce spí, beze snů děsivých. Bojím se ohlédnout, abych neviděl, co jsem nechal za zády. Na cestě kolem světa nemám pocit zmarněného času, chůzí zaháním noční můry, kroky chlácholím své špatné svědomí.
 
-  
+</section>
+
+<section>
 
 Je-li zrušena armáda, znamená to snad, že se na Sovětský svaz nepotáhne, přestože mu byla vyhlášena válka? Už to tak vypadá… Ale co slovo vojáka, slovo důstojníka? Co slovo kapitána Kotulána?
 
@@ -132,7 +152,9 @@ Vojíni Pecka a Navrátil stáli svému veliteli věrně po boku. Kdyby jim por
 
 Marně se kocour Napoleon sháněl po obligátní konzervované dávce potravin, neměl mu ji kdo otevřít a v misce naservírovat. Opustil tedy opuštěné velitelství armády a v blízké vsi si našel bohatou nevěstu. Měla k dispozici silo plné obilí, plné myší, snadno ho uživila, aniž musel packou pohnout, aniž musel ptáčka v letu srazit, myšku z díry vyšťárat. Zplodil s ní několik tuctů Napoleonů a Napoleonek, pak jí začal zahýbat s několika chudými kočkami naráz, a tak ho vyhnala. Ať si táhne, odkud přišel. Táhl tedy krajem, potloukal se v polích a lesích, živil se všelijak, dokud ho v zimě myslivec Adamec nezastřelil středně hrubými broky a neudělal si z něj ledvinový pás. – Ale to jsme odbočili od podstatného k nepodstatnému, jak časově, tak místně.
 
-  
+</section>
+
+<section>
 
 Zatímco bývalý velitel útvaru bývalý kapitán Kotulán s doprovodnou hlídkou, bývalými vojíny Oldřichem Navrátilem a Longinem Peckou, pili alpu francovku už bez piva a bez bývalého generála, vojska před závorou čekala na jejich návrat z velitelství armády v nejistotě. S jakou se vrátí? Potáhne se na Sovětský svaz? Kdy se potáhne, kdo potáhne s nimi, kdy už tam budou? – Nejistota leptá kázeň i odhodlání, sráží bojového ducha. Vojáci bez kázně – jak známo – lezou po stromech. Co s vojákem na stromě? Když čekání trvalo příliš dlouho, slezli vojáci bez kázně ze stromů a začali se rozlézat po krajině. Zmocňovaly se jich hříšné myšlenky, lezly na ně nevojenské choutky, měli hlad a žízeň. Dávno už snědli svou denní dávku konzervované potravy a na další jídlo žádné vyhlídky. Začali sklízet cizí ovoce a cizí zeleninu, ani ji pořádně neočistili, jen z ní hlínu o kalhoty otřeli; kradli slepice a husy, líčili pasti na lesní zvěř, ale nestříleli, měli to zakázáno, munici potřebovali na Sovětský svaz. Podařilo se jim upytlačit kance divočáka, zachytil se pravým předním kopýtkem do drátěného oka na zajíce, museli ho utlouct polními lopatkami. Pak ho pekli nad plameny, nemohli se dočkat, ukrajovali ohořelé kousky bajonety nabroušenými do boje a jedli to nedopečené, spálené na povrchu a syrové uvnitř. Nechutné trampské počínání. Když kolem nich prošel kocour Napoleon, podíval se na ně svrchu, pyšně a pohrdavě:
 
@@ -140,13 +162,17 @@ Zatímco bývalý velitel útvaru bývalý kapitán Kotulán s doprovodnou hlí
 
 Kdo by věřil kocourovi… Tohle? Všichni! Ač to znělo neuvěřitelně, skoro všichni vojáci mu uvěřili. Nemeškali ani chvilku, nechali kance kancem, ať se, sviňa, peče, jak dlouho chce, a odešli domů, jak jim kocour doporučil. Ale ne všichni, všichni ne. Všichni tomu prohnanému oficírskému kocourovi neuvěřili. Co když je to nějaká kocouří poťouchlost! Nepatrná hrstička jich tam před závorou, u ohně s kancem na špízu zůstala. Kdo to kdy slyšel, aby byla nějaká armáda zrušena? To se přece nedělá! Nepatrná hrstička zůstala a netrpělivě čekala, s čím přijde jejich velitel z velitelství. A neprohloupili. Kanec se báječně dopekl, byl ho pořádný kus pro každého a ještě zbylo.
 
-  
+</section>
+
+<section>
 
 Jako bych se vracel, jako bych měl blíž k chlapci, který běží za psem. Je to ohař s ušima plnýma broků, schytal je při lovu na zajíce a bažanty, jmenuje se Brok. Tulívali se k sobě v boudě pod schody na půdu, když babička sypala slepicím a dědeček zabíjel králíka jedinou ranou polínkem. Nejdřív capkali vedle sebe po štěrkové silnici předjížděni odpoledním autobusem, maminkami s kočárky, traťovými dělníky na kolech, loudali se jen tak: šel chlapeček na procházku, vedl pejska bez provázku… a pak se dali do běhu, nevíme, kdo s tím začal, koho to napadlo, zničehonic běželi, aniž by před něčím utíkali. Běželi jen tak, ačkoli mohli neběžet, mohli se vrátit domů pro krajíc chleba s pomletými škvarky, oběma tolik chutnal, podělit se o něj rovným dílem. – Nekrm toho psa, má svý v misce! Taky o tu misku se mohli podělit a pak v boudě pod schody na půdu oddávat se snění a blechám. Jenže oni běželi dál, a jestli s tím nepřestali, jestli stále ještě běží, běží v oblacích.
 
 Jako bych těm dvěma běžel v patách, jako bych to dokázal, jako bych měl blíž k těm dvěma než k dědkovi na lavičce cucajícímu ocucanou hašlerku. Kdepak bych běžel, kdepak bych stačil psovi s rozstřílenýma ušima… Jdu zvolna, kráčím pravidelně, vždyť co neujdu dnes, urazím zítra nebo pozítří, nic neuteče. – Když si odplivnu, slina je tmavá, sladká, táhlá, hašlerková.
 
-  
+</section>
+
+<section>
 
 Ve vzdálených Alpách se zvedl vítr, rozverný a studený, přifičel do Kuřích Vod a ovanul všechny shromážděné u závory. Až po dvou dnech se probudili: bývalý vojín Pecka, bývalý vojín Navrátil a bývalý kapitán Kotulán, bývalý velitel bývalého útvaru, který se rozešel do svých domovů. Probouzeli se postupně v trávě u závory oddělující Kuří Vody od ostatního světa. Připotáceli se sem přede dvěma dny podepřeni navzájem, skáceli se do trávy a dva dny tak zůstali přiklopeni mentolovým poklopem vlastních výparů. Až po dvou dnech se víčko levého oka ztěžka odklopilo a zase přiklopilo. Nad nimi se skláněly nezřetelné šmouhy obličejů nezřetelných lidí, nezřetelné ruce jim cosi nabízely. Byly to zbytky kance, vybraná sousta. Rty se rozlepily, ale ne proto, aby kančí sousto pozřely: „Vodu!“
 
@@ -216,7 +242,9 @@ Kapitán Kotulán si při Hulajdově vychvalování mnul bradu, protože silně 
 
 „Tož vás, chlapci, vítám v našich řadách. S takovou posilou Sovětský svaz porazíme, i kdyby nechtěl,“ řekl velitel a usmál se na ně přívětivým úsměvem.
 
-  
+</section>
+
+<section>
 
 Někdy se vyplatí uhnout z přímé, vyšlapané cesty kolem světa a zabrousit do luk a strání, ale nesmí pršet, musí hřát sluníčko. Jahody ve vysoké trávě voní jak posedlé, převoní i tu nejvyšší kostřavu, srhu a lipnici, i když jsou docela maličké, schované pod listy. Stačí se shýbnout, poodhrnout trávu a máte je, červené titěrnosti u země. – Pozor na veliký stroj! Řítí se loukou a drtí trávu, třezalku i jetelíček, včelí pastvu, zeměžluč a řebříček, bodláky před rozpukem, hadinec i pryšec chvojku, vikev ptačí a hrachor luční, stroji je to všecko fuk. Co rozdrtí, posbírá a odveze, jenom kopřivy na mezi mezi loukami nechá, co by si s nimi počal.
 
@@ -292,11 +320,15 @@ Kotulán se vyděsil. Kdyby si Prkénko vpálil kulku do hlavy, přišli by o z
 
 „Provedu, plkovíku!“
 
-  
+</section>
+
+<section>
 
 Ten profesor, paňi, z Nuslí Weinberger, co bádá po stopách jakéhosi vídeňského cukráře a co neskočil z mostu, jak měl ty čtyři krasavice z Bali doma v Nuslích, jak dostal povolávací rozkaz přímo na mostě, zrovna když chtěl skočit, ale neskočil, do Bdělé pod Bezdězem, paňi, tak ten profesor se neztratil. Kdepak! A ty čtyři Balice se taky neztratily. U nás v Nuslích se nic neztratí, ani když se to z Nuslí vytratí, my o každém víme, protože máme o každého zájem, protože je náš. Kdo jednou prošel Nuslemi, je z Nuslí, hotovo. Přes to nejede vlak. My si ho necháme, i když zlobí; i když je to vrah z vášně, pro peníze, z vilnosti nebo masový, protože patří do rodiny a to už nikdo neodpáře ani jemu, ani Nuslím. My v Nuslích, paňi, neseme odpovědnost za každého z Nuslí, i když se zatoulá třeba do Holešovic, jako ta čtyři ubožátka. – Ty čtyři dívky z Nuslí, přece! Když se za ním rozjely do Bdělé pod Bezdězem na návštěvu, tak on je tam prodal, ten profesor, sviňák bez­uzdný, tomu pošukovi, který to tam měl na povel. Ano, Kotulán se jmenuje. Že už jsem vám o tom, paňi, povídala? Tak já vám to řeknu ještě jednou, ale tentokrát přesně tak, jak to bylo, to mi věřte. Nebo mu je dokonce daroval zadarmo, aby se zavděčil. U těchhle intelektuálů člověk nikdy neví, kdy jim prdne v bedně a co jim tam. Bůhví odkud ten Kotulán je, jisté je, že z Nuslí není, paňi, kdepak by byl takový z Nuslí… Celou noc je měl ve stanu, chudinky, a byl tam s nimi sám, nikdo nesměl dovnitř, všude samá stráž. Kdoví, co tam vyváděl, blázen jeden. Nic bych za to nedala, že musely rozebírat a zase dohromady skládat kulomet. – Ráno přijela do Bdělé jeho stará, co prodává v tržnici, jak byly v Holešovicích jatky, podprsenky nadměrných velikostí, taky šitíčka, bavlnky, zipy a knoflíky, a rovnou do toho velitelského stanu, stráže nestráže. Načapala ho tam, zrovna když je učil vlevo v bok a čelem vzad. Ten vám byl, paňi, jako opařený, to si umíte představit. Takhle ráno, přes všecky ty strážné vojáky a hned in flagranti. Já ti dám čelem vzad! Já ti dám vlevo v bok! Já ti dám rozebírat kulomet s děvčátky! – Naložila ty chudinky do auta a rovnou do Holešovic. Však já se o vás, holátka, dobře postarám. A v Holešovicích hned u přístavu v Jankovcově ulici, kousek od Libeňského mostu, jim pronajala St. Pauli. To je, panečku, jiná káva než kachní bordel v Denpasaru! V St. Pauli nemusejí vyhazovat kachnám hnůj ani je krmit a po použití zařezávat, šmik za hlavičku. A pak škubat peří. Víte, paňi, jak blbě se to škube, i když je dost napařené? V Holešovicích se ty holčičky seznámí každý den s novými zajímavými lidmi, zašpásují si s nimi, zahrají na fanty nebo kanastu, poveselí se a ráno můžou vyspávat až do oběda. Když nemají do čeho píchnout, šijí podprsenky nadměrných velikostí nebo vyšívají na kanavu překrásné zaoceánské motivy. Ta paní Kotulánová, paňi, je pak v tržnici prodává jak housky na krámě zahraničním turistkám z Německa, Holandska a z celé Skandinávie, ty podprsenky, abyste rozuměla. Japonky, Italky a Francouzsky se na ně nechytají, ty mají dost malé kozy, ty jsou spíš na motivy. Škoda, paňi, že u nás v Nuslích nemáme takové jatky, ze kterých by byla taková šikovná tržnice, a že musíme až do Holešovic. Ale zato máme most, to je pravda, tak hluboký most v Holešovicích nemají. Ani v celé Praze. – Tak ten profesor z Nuslí Weinberger i s tím Kotulánem a taky s tím konceptualistou, jak se honem jmenuje, taky z Nuslí, a s celou tou bandou odtáhli pěšky do Kuřích Vod. Takže jsou teďka v Kuřích Vodách. Co tam dělají, suď bůh… Ale já se to, paňi, dozvím, na to vemte jed. Brzy se to dozvím, to mi věřte, a dám vám, paňi, včas vědět. Abyste věděla.
 
-  
+</section>
+
+<section>
 
 Jako když ježibaba bičem šlehne, kruťas houser vám skočí na bedra, to se pak špatně chodí kolem světa. Obzvlášť v čase blátivých stezek podél vody a usychajících vratičů, které pokyvují znavenými hlavičkami, protože se musely smířit s úbytkem žluti: tak, tak, tak… Hladina řeky žloutne opadanými topoly, javory a lípami. Belhám se v mírném předklonu s houserem přilíplým na páteři, a nemusel bych. Hlohy jsou dosud ještě zelené a jejich listoví se drží úpěnlivě ve větvích, listy kaštanů už dávno zhnědly a opadaly navštíveny klíněnkou jírovcovou. Není to houser, je to husar, osedlal si mne, vráží mi ostruhy do křížové kosti, mezi obratle a já se šinu kolem světa blátem a podzimem, jako bych musel plnit povinnost.
 
@@ -304,7 +336,9 @@ Potkávám člověka o holi, hlavu má skloněnou, tvář ukrytou kšiltem kši
 
 Tak. – Nezbývá než dát mu za pravdu.
 
-  
+</section>
+
+<section>
 
 Bloumat lukami nelze věčně, po čase to přestane bavit i tvrdošíjnou obdivovatelku luk. Světská sláva, polní tráva, kytice zvonků, kopretin a kohoutků lučních proložená stébly skřípiny uvadla a neslavně skončila v popelnici, Anička Dušička odjela do krajského města studovat na učitelku a poznávat život. Bydlela v koleji s chichotavou Květuší a vážnou Martou, chodila na přednášky a do seminářů, do tělocvičny a do houslí, do kina a do divadla i na operu, taky do hospody na pivo s děvčaty a chlapci, smála se srdečně, oči kulila údivem, jak je ten svět, který zrovna objevuje, veliký, zajímavý, zábavný a krásný. Už dávno zapomněla na rozpačitého chlapce, kterého v lukách několika správně umístěnými údery do zad zachránila před zalknutím. Kdyby se jí zeptali, jakže se jmenoval, už by si nevzpomněla. Chodila teď s Vaškem Šaškem, horolezcem a studentem báňského inženýrství, a probírali spolu líbání.
 
@@ -325,7 +359,9 @@ Ano, ano, to je on! Ten chlapec s kopretinou, blázínek na louce. Co teď s n
 
 Ráno ještě trochu opilou a hodně zulíbanou Aničku Dušičku pojala lítost veliká. I když to byl nekňuba a bytost překomplikovaná, tohle mu nepřála. Říká se od bláznů dál, ale odepsat by mu měla. Taky se říká, že se bláznům nemá odporovat.
 
-  
+</section>
+
+<section>
 
 Milý Oldřichu,
 
@@ -342,11 +378,15 @@ Anička_
 
 P. S.: A zas mi napiš, jak se vede ve válce.
 
-  
+</section>
+
+<section>
 
 Kdyby Anička Dušička věděla, _že_ ten blázen Oldřich Navrátil nemá na sobě ústavní pyžamo a pruhovaný župan a že Kuří Vody nejsou blázinec ani psychiatrická léčebna, kdyby věděla, že neblahý Oldřich má na sobě polní uniformu, kterou kvůli utajení vbrzku vymění za civilní oděv, a že válka se Sovětským svazem je na spadnutí, sotva by změnila svůj postoj k němu; sotva by horolezce a budoucího inženýra Vaška Šaška i s Vrátnou dolinou odložila a vypravila se do Kuřích Vod rozloučit se s chrabrým vojínem pacifistou. Kdyby tohle všechno věděla, s největší pravděpodobností by si řekla: To jsou ale blázni! Táhnou na Sovětský svaz! Nespadli snad z višně? Jako každý rozumný člověk Anička Dušička věděla, že Sovětský svaz je lépe nechat na pokoji, i když je zrušený.
 
-  
+</section>
+
+<section>
 
 Smog se vysypal na krajinu a leží tu, ani se nehne. Čekáme na déšť, aby umyl vzduch, který jsme pilnou prací zasvinili, čekáme na vítr, aby to svinstvo rozfoukal do všech koutů naší země. Uvnitř ve staveních se dýchá líp než venku. Není na tom cosi divného? Déšť ani vítr nepřichází. Noc na nás padla znenadání, přinesla ticho.
 
@@ -354,7 +394,9 @@ Také sníh by mohl pomoci, pochytá na své zbůhdarma krásné vloč­ky prach
 
 Ani vlak, pádivá čmouha na protějším břehu, ticho nepřeruší. Jak to, že neslyším ššššš, rachot motorů, svist kolejnic, skřípění brzd? Snad jsem neohluchl? Co když jsou mi v patách lovci staříků a já neslyším jejich kročeje, protože neslyším? Jak se jim vysmeknu, když zaútočí znenadání, když mě popadnou a nepustí? Nezbývá než pokračovat v cestě. Mám se snad schoulit u plotu, ani nedutat, s ušima nastraženýma čekat, jestli už… nebo až za chvíli… nebo někdy jindy… V tu chvíli zařval lev. Nejprve táhle a pak už jen krátce pořvával, jako když se rozjíždí vlak. A já jsem ho slyšel. Je to dobré, když slyším lva; není špatné, když lva slyšíme řvát.
 
-  
+</section>
+
+<section>
 
 K večernímu čepobití nastoupili vojáci v uniformách, protože ne­měli nic jiného na sebe. Jenom Kotulán byl v podivném oblečení, jaké aktivní důstojníci pokládají za civilní: z vojenské blůzy si ošku­bal výložky, zlaté knoflíky a vyznamenání, místo brigadýrky si na hlavu nasadil ohavný hnědý baret s anténkou na vršíčku.
 
@@ -453,7 +495,9 @@ V gazíku pizza do domu se volantu zmocnil kuchař Kulajda, když mu velitel zm
 
 Když vyrazili na Sovětský svaz, nezpívali si sborově a do kroku, jako když vyrazili z Bdělé pod Bezdězem v pevně sevřeném pěším útvaru do Kuřích Vod, vždyť se teď vezli v režimu utajení a na pochodový zpěv jich bylo málo. Jenom Oldřich Navrátil si potichu broukal:
 
-  
+</section>
+
+<section>
 
 > Na vojnu jsem se dal  
 > pro krásnou plavovlásku,  
@@ -462,23 +506,31 @@ Když vyrazili na Sovětský svaz, nezpívali si sborově a do kroku, jako kdy�
 > že nechtěla se dát  
 > ode mne zulíbat.
 
-  
+</section>
+
+<section>
 
 > Na vojnu jsem se dal,  
 > my hned do boje táhli…
 
-  
+</section>
+
+<section>
 
 Nadrotmistr Prkénko uvažoval, nemá-li proti Oldřichovi zakročit, není-li jeho broukání proti zásadám utajení. Kdyby seděl vpředu, na velitelské sedačce, určitě by mu v tom zabránil. Jenže na lavičce s mužstvem, které ani nebylo v uniformách, ztratil svoji staršinskou jistotu. Jako by mu pod nohama písek ujížděl, jako by se řítil do propasti. Kdyby nebyl vojákem, kdyby na sobě neměl uniformu, snad by se dal do pláče.
 
-  
+</section>
+
+<section>
 
 > Mé srdce vložte pak  
 > do bělounkého šátku  
 > a k nám je pošlete,  
 > mé milé řekněte:
 
-  
+</section>
+
+<section>
 
 > „To srdce pro tebe dal,  
 > hoch, jenž tě miloval.“
@@ -489,3 +541,5 @@ Nadrotmistr Prkénko uvažoval, nemá-li proti Oldřichovi zakročit, není-li j
 Někdy se na cestě kolem světa stane, že se zamyslíme, nemyslíme na cestu, přemýšlíme o něčem jiném, třeba o žízni a vzdálené hospodě nebo o shrnuté ponožce, o svých starých láskách, o letu balonem, a uhneme z přímého směru, cesta se nám zamotá, zasukuje a odvede nás do pomykova. Začneme bloudit, nevědouce kudy kam.
 
 Někdo by mohl propadnout zoufalství, klást si za vinu nedostatečné soustředění, nepozornost. Nebo by to mohl svádět na objektivní činitele: opilého rádce, špatně značené cesty, nepříznivé povětrnostní podmínky, vykloněnou olovnici, prošlou záruční lhůtu kompasu… A přitom si neuvědomujeme, že každá cesta vede kolem světa a nějaké to vybočení neznamená vůbec nic, takový omyl může naši cestu jen obohatit a prodloužit. Vždyť kolem světa nejdeme kvůli tomu, abychom to už měli za sebou a byli zase zpátky. Copak víme, kam jdeme? Jestliže je cesta cílem, žádná odbočka není marná. Co když hned za tímhle rohem, kterému jsme se chtěli vyhnout, číhá na nás štěstí? Třeba cvrček s housličkami a fialovým kloboukem nebo kaštanové kvítky napadané v čerstvě natočeném pivu…
+
+</section>

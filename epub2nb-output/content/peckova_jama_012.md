@@ -3,6 +3,8 @@ title: Pod Andělskými křídly
 contentType: prose
 ---
 
+<section>
+
 Přes den bylo teplo jako v létě, večer se však ochladilo, a kdo měl krb, byl by blázen, kdyby v něm nezatopil. Podzimek se teprve klubal, neposbírané ostružiny už zaschly na větvičkách pichlavých. Na placatém kameni lesní polní cesty ležela protéza horní čelisti s jedenácti zdravými zuby, rozlámaná na čtyři kusy nestejné velikosti, dvanáctý zub chyběl. Zřejmě ho někdo potřeboval, tak si ho vzal. Musel kvůli tomu celou čelist polámat? Jinak by se k zubu nedostal. Jak jen někdo může ztratit horní čelist…
 
 Civilista pacifista Oldřich Navrátil a civilista specialista Longin Pecka dřepěli nad čelistí a kroutili hlavami, jak by kroutil každý, koho něco takového potká. Jak se to může přihodit? Komu? Za jakých okolností?
@@ -23,7 +25,9 @@ Civilista pacifista Oldřich Navrátil a civilista specialista Longin Pecka dř
 
 Měl ten Anděl pravdu, kam se na něj plzeň hrabala… Pili kounickou šestadvacítku, nejlepší pivo na světě, a klábosili o tom, co kdo z nich prožil na zubařském křesle, a soutěžili, koho to víc bolelo. Vítěz ještě nebyl určen, když v Peckově batůžku pípl telefon. Esemeska:
 
-  
+</section>
+
+<section>
 
 > Proteka zachod u  
 > devcatek v  
@@ -32,7 +36,9 @@ Měl ten Anděl pravdu, kam se na něj plzeň hrabala… Pili kounickou šestadv
 > spravit. Skoda  
 > vody. Kotulanova
 
-  
+</section>
+
+<section>
 
 „Člověk si v klidu ani to pivo nevypije,“ povzdechl si Longin. „Kotu­lánce v St. Pauli netěsní záchod.“
 
@@ -122,7 +128,9 @@ Když bylo uklizeno, vzali se za ruce a Zpod Andělských křídel vydali se na
 
 A tak šli a šli a šli, kočárek vrzal, tráva voněla. Že oni se ti dva, s plným kočárkem, nakonec vydali na cestu kolem světa…
 
-  
+</section>
+
+<section>
 
 Na cestě kolem světa doporučuji starším cestovatelům míjet území, kde jedí starce setřesené ze stromu. Cestou jsem lelkoval, díval se po vrabcích (znepokojivě jich ubývá, stejně jako chroustů), sešel jsem z cesty a vrabci mě zavedli do vrabčího města Ulmu na řece Dunaji; vystavěli tam vysokánskou katedrálu s měděným vrabcem na střeše. Kdo toho vrabce uvidí, rázem pochopí, že procházet úzkými dveřmi s břevnem napříč je pošetilé. Lepší vrabec na střeše nežli holub v hrsti. Ještě že jsou na světě vrabci, bez nich by nebylo města Ulmu a to by byla škoda. Ti, co se tam narodili, neměli by se kde narodit, a svět by byl bez Einsteina.
 
@@ -132,7 +140,9 @@ Měl bych pokračovat v cestě kolem světa, když jsem už z cesty sešel a 
 
 Vězí to kouzlo ve mně napořád. Ve snech se vrací a já vím, že až skončí má cesta kolem světa, rozpustím se v čisté vodě říčky Blau, vteču do Dunaje a pak se rozplynu v Černém moři. Má cesta kolem světa však ještě neskončila.
 
-  
+</section>
+
+<section>
 
 „Kam jsi schoval tu svou jámu, Longine?“
 
@@ -143,3 +153,5 @@ Vězí to kouzlo ve mně napořád. Ve snech se vrací a já vím, že až skon
 „Jámu? Copak jáma se dá někam dát? Copak já mám nějakou jámu?“
 
 _Dopsáno ve Vlkovicích 28. září 2012_
+
+</section>
