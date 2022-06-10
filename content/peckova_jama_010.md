@@ -3,13 +3,17 @@ title: Dobrá rada
 contentType: prose
 ---
 
+<section>
+
 ## 1
 
 Kdyby Peckovu jámu bývali měli Napoleon nebo generál Paulus, to by se jim to bývalo, panečku, bylo válčilo! Dějiny by vypadaly docela jinak a snad by ani nemuselo dojít ke Kotulánovu tažení na Sovětský svaz, protože by byl býval ani nevznikl.
 
 Vojska si tu seděla v salonu pěkně vyhřátém, zatímco vůkol se Sibiř činila, aby učinila zadost své kruté pověsti. Melodie Podpolanská si pouštěla video s Rychlíkovou inscenací Roku na vsi, ale nikdo se k ní nepřidal. Velitel Kotulán luštil křížovku v Relaxu, sobotní příloze Lidových novin, zadrhl se na hesle _odporný zápach_ na pět písmen. Oldřich Navrátil psal koncept dopisu Aničce a hodně při tom škrtal. Když všechno přeškrtal, vzal list do obou rukou a trhal a trhal a trhal. Longin Pecka ho silně rušil svou hudební produkcí. Vyhrabal kdesi kytaru s nelibým zvukem, silně rozladěnou, naladit ji nedokázal, a dal se do zpěvu:
 
-  
+</section>
+
+<section>
 
 > „Anička, dušička, někášli,  
 > aby ma u těba něnášli.  
@@ -18,7 +22,9 @@ Vojska si tu seděla v salonu pěkně vyhřátém, zatímco vůkol se Sibiř č
 > zavýskám na celú dědínú,  
 > akú mám šikovnú děvčínú…“
 
-  
+</section>
+
+<section>
 
 Bylo to příšerné, ale kromě Oldřicha to nikomu nevadilo. Ve válce člověk snadno otupí. Oldřich trpěl se zaťatými zuby, ale když Longin spustil potřetí, platonický milovník se ohradil:
 
@@ -106,7 +112,9 @@ Jenže říkejte zrovna Kotulánovi zrovna tohle! Na žižkárně do něj vtlouk
 
 „Nevěste hlavy, vojska, my tu válku vyhrajeme. Zas bude svátek v naší ulici…,“ povzbudil svou armádu a vyhlásil Velký zimní turnaj v kulečníku. Zahájen bude hned zítra po snídani a ukončen 21. března o půlnoci.
 
-  
+</section>
+
+<section>
 
 Na ostružiny se chodí, když jsou zralé; chodí se na ně tam, kde rostou. Jinak to nemá smysl. Pro maliny platí to samé. Čas malin jsem letos propásl na cestě kolem světa v krajině dávných Thráků a u hrobu Orfeova, a tam jsem na žádné maliny nenarazil. Když jsem se na ně vydal v našich končinách, bylo už po nich. Jen pár opozdilců se rdělo na usychajících větévkách. Vařívám z nich marmeládu. Je vzácnější než ostružinová: červenější, sladší a voňavější. Ostružiny mi neutečou. Rostou na drásavých prutech, které není radno brát do ruky, mají trny odhodlané každého popíchat.
 
@@ -120,7 +128,9 @@ Co je to za člověka, když dokáže ztratit vlastní chrup? Nebo ho snad úmys
 
 Cesta, po které jsem šel, byla slepá ulička, musel jsem se vrátit. Když jsem se vracel s rozpíchanými prsty a třílitrovou konví ostružin, zuby už na placatém kameni nebyly.
 
-  
+</section>
+
+<section>
 
 Zimní turnaj v kulečníku vyhrál dosti těsně kapitán Kotulán. Ale ne proto, že je velitel a ostatní mu nechtěli kazit radost, nýbrž proto, že dokázal strkat do koulí ze všech hráčů nejlépe. V patách mu byla Melodie Podpolanská, hra s koulemi se jí znamenitě dařila. Dalo jí dost práce, aby svého velitele nezesměšnila a neporazila ho. Pecka za těmi dvěma notně pokulhával, i když se velice snažil a koncem února se začal k vedoucí dvojici nebezpečně přibližovat. Kdyby hráli ještě nějaký ten měsíc, kdoví… Nejhůř na tom byl Oldřich Navrátil, člověk nesoutěživý, kterému bylo úplně jedno, jak se umístí. Kulečník předtím nikdy nekoulel, a kdyby nebyla válka a nedostal to rozkazem, nikdo by ho k žádné soutěži nepřinutil. Podle toho to taky vypadalo. Nač ten chlapec při tak nemotorném šťouchání asi myslel?
 
@@ -316,7 +326,9 @@ Pokračovali ve zběsilé jízdě – kráva nečeká – bez oběda, o hladu
 
 Kráva se ani nestačila kloudně rozloučit, jak měla naspěch. Otočila se na levé zadní patě a uháněla zpátky na Ukrajinu, aby nezmeškala dojení. Přece s nimi nepoleze do chaloupky na kuří noze po hliníkových schůdcích!
 
-  
+</section>
+
+<section>
 
 Nic bych, paňi, za to nedala, kdyby to na ně prasklo a oni by byli za to popotahováni. Na to jsou zákony, nevím, jestli v Rusku, ale u nás by šli do vězení, ani by nemrkli. Přece se nemůže jen tak někoho prodat do otroctví a dělat, že nic, že on to tak chtěl. Jako toho Vietnamce u nás, jak ho zazdili do sklepního zahradnictví a jídlo mu tam strkali škvírou mezi cihlami. Pěstoval tam pro ně konopí, co se kouří, za byt a stravu, a aby to na ně neprozradil, tak ho raději zazdili a měli tak jistotu, že nemůže ven. Kdo ví, jak se na to přišlo, že je zazděný, když on tam byl zazděný a nemohl ven ani si nikomu postěžovat. Co si vůbec mysleli, že s ním udělají, až bude sklizeno? Asi ho tam chtěli nechat zazděného do další sklizně, ono se to vyplácí. Přece to konopí museli nějak vyndat, když je chtěli prodávat potřebným narkomanům a narkomankám, je jich dost, to vám řeknu. To ho tam asi měli na doživotí, toho Vietnamce, a přitom je to taky člověk jako my, jinak si to, paňi, neumím vysvětlit. Na doživotí a přitom nic. Vždyť kdyby ho vybourali, museli by ho jó hlídat, za nohu uvázat, aby neběžel na policii a všecko na ně nevyslepičil. Určitě i v tom Rusku mají zákony proti otrokům, vždyť jsou už civilizovaná země, co teď mají toho cára místo bolševiků. Představte si to, paňi, tak oni toho profesora Weinbergera, toho Nuseláka z Nuslí křtěného Botičem, který se tak pěkně postaral o čtyři slečny z Bali, česky je naučil, jen ta výslovnost, ale s tím se nedá nic dělat, zaopatřil je všecky čtyři, knihovnu po něm zdědily a jakou velkou, tak oni ho, představte si to, paňi, v tom Rusku prodali na pokusy. K vědeckým účelům. Ne že by potřebovali peníze, on jim totiž ten Weinberger děsně lezl na nervy, těm Kotulánovým vojákům, jak vyhlásili válku Sovětskému svazu, pořád jim vykládal o jakémsi cukráři z Vídně, samé nesmysly, jaký je to génius a že by se mělo něco udělat, že je nedoceněný a vynalezl Sacherův dort a Sacher mu ho ukradl a snědl, že o něm svět neví, tak aspoň oni aby. Ani se jim, paňi, moc nedivím, já ho znám z Nuslí, v Nuslích já všecky znám, taky by vám to lezlo na nervy s tím cukrářem, kdyby pořád a pořád, od rána do večera, ale zrovna na pokusy, a kdoví jaké, to ne, to by se nemělo, to by se mělo zakázat, i když jsou vědecké. Však u nás to zakázané je, dokonce se jedná i o zvířatech, že by se neměla na pokusy, jenže to se mi, paňi, zdá přehnané, jak by se pak vědělo, že to vůbec funguje, když by to nevyzkoušeli. Ale vědecky! Králíci, prosím. Myši, prosím, nic proti tomu. Psi… no, tady si nejsem moc jistá. Ale lidé, vyloučeno. Někdy to tomu člověkovi může pomoci, když ho prodají do otroctví, jako třeba tomu Josefovi, když ho bratři vytáhli z pumpy, ale to už je dávno, paňi, to nemůžeme srovnávat. Kdoví, co si za to koupili, co dostali za toho Weinbergera. Kořalku si pálí sami… Třeba šli za to do bordelu, ale co s tou ženskou, co je s nimi ve zlatých střevíčkách, že by ji vzali s sebou? Co by tam dělala? V bordelu… Možná spekulují s pozemky na Sibiři nebo to nastrkali do hracích automatů, lákadel je, paňi, všelijakých i v Rusku dneska. Dřív toho nebylo, hrála se akorát Sportka a Sazka kvůli sportu, abychom měli dobré jméno ve světě. A jak, paňi, vzkvétal. Každý nám ty zlaté hochy záviděl. Jestli oni taky nezačali kouřit to konopí, kdekdo už to kouří, a to není zadarmo… To nedopadne, paňi, dobře, to mi věřte!
 
@@ -426,7 +438,9 @@ Jaga Bura s velkým půvabem vstala a z parádního pokoje přinesla parádn�
 
 Co těm chrabrým vojínům a vojínce zbývalo? Nemohli přece – i když by tuze rádi – naskákat do zlatého gazíku a vyrazit zpátky přes Ural a na Moskvu. Museli se vydat s kočkou a kuchařem okultistou na myši. Ale vůbec toho nelitovali. Byl to úspěšný lov, užili si při něm spoustu legrace.
 
-  
+</section>
+
+<section>
 
 _Chaloupka na kuří noze, neděle_
 
@@ -446,3 +460,5 @@ Oldřich_
 „Hola hola, také já jsem zhmotněná představa,“ volal ze zápraží chaloupky na kuří noze za ujíždějícími vojsky kapitána Kotulána kuchař okultista Župajda. „Svoje vlastní představa! A jmenuji se Jurajda, vy pitomci, a nikdy jsem nebyl v žádném sirotčinci. Tatjan Tatjanovič Stěnolezyn to může dosvědčit!“
 
 Jenže gazík už byl daleko a vojáci v něm ujíždějící Jurajdu neslyšeli. Hnali se na západ, směr Moskva.
+
+</section>

@@ -3,9 +3,13 @@ title: Na stopě
 contentType: prose
 ---
 
+<section>
+
 ## 1
 
-  
+</section>
+
+<section>
 
 > Cesta je prach  
 > a štěrk  
@@ -18,7 +22,9 @@ contentType: prose
 > a pírka touhy  
 > z křídel Pegasů…
 
-  
+</section>
+
+<section>
 
 V Ladě Nivě, která jako vždy jela v čele, neboť i když změnila barvu, stále zůstávala velitelským vozidlem, pečovala Melodie Podpolanská na zadním sedadle o neposkvrněnost své obličejové fasády. Hleděla do příručního zrcátka a broukala si Krylovy romantické protesty.
 
@@ -64,11 +70,15 @@ Zvedla se ruka vojína konceptualisty Pytlíčka.
 
 Toho dne na posraném odpočívadle daleko od Moskvy stal se z plukovníka zase kapitán Kotulán a vojín konceptualista Pytlíček se naučil vařit.
 
-  
+</section>
+
+<section>
 
 Co bych vám k tomu všemu, paňi, ještě řekla… O tom jejich kuchaři okultistovi se toho málo ví. Skoro nic se o něm neví. No, jak se honem jmenuje, jak vylezl z roury u Kuřích Vod s tím druhým, když už byla armáda zrušená. Ani se nedivím, že z té roury vylezli, co by celou dobu dělali v rouře. Ještě jakýsi Stěnolezyn, o tom jenom vím, že padl v boji se Sovětským svazem jako první a pak ho zpopelnili. A to je tak všecko. Ono se tam u nich, jak teďka jsou, moc nezpopelňuje, většinou je zakopají do země, aby měli kam chodit naříkat. Nad plechovkou s popelem to není ono. Jak ti dva do té roury vlezli a proč, co tam dělali a jak dlouho tam byli, to nám už dneska, paňi, nikdo neřekne. Některé věci holt se nikdy nedozvíme a můžeme se akorát domýšlet. On je totiž sirotek z obou stran, jak po tatínkovi, tak po mamince, jenže to já už taky, paňi, ale to ještě neznamená, že bych se kvůli tomu musela dávat na okultismus a vykládat mamince do záhrobí, co jsem dnes vařila k obědu. A kdoví, jestli je ten chlap vůbec sirotek, jestli on není odložené dítě! I taková, když se najdou někde u popelnic nebo v popelnici, strčí do sirotčince. Když jste v sirotčinci, ještě to neznamená, že musíte být sirotek. U těch, u sirotků, se většinou ví, jak se jmenují, na to mají papíry úřední s razítkem, ale ti, co je nějaká krkavčice pohodila jen tak, v igelitové tašce z Kauflandu, kde by vzali papíry. Ta má jiné starosti než shánět papíry pro vlastní děcko, když už je odkládá. Jestli má ona svoje papíry vůbec v pořádku! Ta šup děcko pryč a honem zpátky do hospody, aby se jí nedopité pivo nezprčilo, nebo někam za roh do křoví si píchnout nebo zapíchat. Však je znáte, potvory, a dřív to nebylo jinačí. Tak teď ten chudák sám neví, jestli je Jurajda, Župajda, Kulajda, Hulajda nebo co vlastně je. Jak to má taky vědět, když mu to neměl kdo říct. Není divu, že takový člověk potom raději zaleze do nejbližší roury, jenomže to je pouze provizorní řešení, v takové rouře nikdo, paňi, dlouho nevydrží, lepší to má v armádě, tam je o něj postaráno, tam se i podvlíkačky fasujou. Jenom se jménem si nejsem jistá, nikdy jsem u vojska nebyla ani na návštěvě u brány, ani u plotu kasáren, jestli i jména se tam můžou nafasovat. Na okultismus se dal jenom proto, aby se mohl maminky zeptat, jak se vlastně doopravdy jmenuje. Jenomže se škaredě spletl, i když ona už naštěstí zemřela a on se jí skrz stolek doklepal až do záhrobí, sama nevěděla, jak se ten chlap, co by měl být tatínkem, vlastně jmenuje, protože jich bylo víc: Jarda, Pepík, Jura, Antonín, Petr a Pavel, dvojčata, Miroslav a Konrád… Ještě někdo? Viktor, ano, ten taky. Ani u jednoho ale nevěděla, jak se jmenuje příjmením. No a v tom sirotčinci mu jméno sice dali, ale pak zapomněli, jestli Jurajda, Župajda nebo Župajda, Kulajda, jak vlastně, a tak tomu chlapečkovi z popelnice říkali každý jinak. Naštěstí to bylo dítě inteligentní, na každé to jméno slyšelo a dodnes slyší. Některé věci se, paňi, do smrti nedozvíme, kdybychom se rozkrájeli, jak je to doopravdy. Vždyť ani když umřete, nevíte, jaké to je. No, možná se to tam dozvíte, ale nikomu na světě už to neřeknete, ani svému sirotkovi, protože jste umřela, a kdo jednou umře, má vystaráno. Tak se věci mají. Ani se mu nedivím, že s tou babou odletěl v díži. To jsem vám, paňi, neřekla? Nabrnkl si v Kyjevě jakousi ženskou a ta ho v díži odvlekla někam na Sibiř. To si neumíte představit, jakou měl ten jejich komandýr Kotulán zlost. Ve válce je každý voják potřebný, a teď tohle. Kuchař, a odletí si s babou v díži! On se s ní ten okultista spirituálně spojil a co čert nechtěl, byla to čarodějnice – tam je tak neupalovali jako u nás v Jeseníkách, akorát je vyhnali na Sibiř – a ona si pro něj přilítla až do Kyjeva. Má, co chtěl. Teď už mu nikdo z té sibérie nepomůže, ani Kotulán, i když je velitel. Některé věci se nemají dělat, a když už se udělají, co pak. Jako ten člověk, co vlezl na palubu, protože byl zvědavý, jak se taková galéra pohání, když tak rychle uhání. Člověk nemusí vědět všechno, to mi, paňi, věřte!
 
-  
+</section>
+
+<section>
 
 Moskvě se vyhnuli velkým obloukem po obvodu kružnice se středem v Kremlu, o poloměru nejmíň tisíc, nebo spíš dva tisíce pskovských verst. Nebo snad dokonce tři tisíce? Zkrátka po hodně vzdáleném oblouku se vyhnuli Moskvě pamětlivi slov knížete Vladimíra, vzácné a respektované historické osobnosti a zbožného pravoslavného křesťana. Ačkoli dali na jeho radu a Moskvě se vyhnuli, na Sovětský svaz Kotulánova vojska dosud nenarazila.
 
@@ -148,7 +158,9 @@ Vodka byla mocná, museli ji ředit a měla neobvyklý buket.
 
 Jedna sklenice zůstala nedotčená. Longin Pecka zmizel z chalupy s baterkou a žádný ho nepostrádal, ani baterku, svítili si petrolejkou. Kotulánovi muži a žena tušili, co má za lubem, protože ho znali. Kdyby se chtěl někdo s nimi vsadit, vsadili by se s lehkým srdcem a vyhráli. Čonkin Peckovo zmizení nepostřehl, byl zaujat Melodií a etickým problémem. Vlastně to problém nebyl, vždyť měl jasno, jen to chtěl novým přátelům, vlastně nepřátelům – vždyť byli se Sovětským svazem ve válečném stavu – srozumitelně vysvětlit. Aby pochopili, proč svou ztracenou vartu neopustí.
 
-  
+</section>
+
+<section>
 
 Nejobtížnější bylo vysvětlit slepicím a hlavně tomu jejich namyšlenému kokotovi, že je to v jejich zájmu. Mají malou hlavičku a sebejasnější věci chápou jenom ztuha, pomalu. Musel jim slíbit vyhlídkový let, aby ho pod plachtu k aeroplánu U-2 vůbec pustili. Takováto možnost však byla pro nelétavé ptáky neodolatelně lákavá.
 
@@ -186,7 +198,9 @@ A měla pravdu. Za chvíli udělal vrabčák otočku, zvuk postupně zesiloval 
 
 Čonkin si utřel zbytek slzí do rukávu rubašky a s velkou radostí přikryl letadlo plachtou. Svět se mu z hlavy postavil zpátky na nohy, věci se vrátily na své místo. Zas bylo všechno jako předtím, jak má být.
 
-  
+</section>
+
+<section>
 
 Moře je kruté i vůči námořníkům moři uvyklým. Už bylo dost těch nočních můr, vracím se na pevnou zem. Od galejnického vesla jsem se osvobodil, rozhodl se utéci strašidlům, ale nevím, jestli se mi to podaří.
 
@@ -206,7 +220,9 @@ Nejspíš by bylo správné, kdyby Čonkin s těmi docela milými vetřelci boj
 
 Místo krvavé lázně obdaroval Čonkin Kotulánova vojska láhví Glady­ševovy speciální vodky a vejci oplodněnými Grigorijem Kokrgeličem; nejkrásnější a nejoplodněnější snesla Leonina Iljevna, slepice, která dokázala hodnou chvíli letět na vlastních křídlech. Poseděl s nimi půlhodinku před odjezdem na kufrech, jak je v zemi zvykem, a pak jim znovu poradil, aby Sovětský svaz hledali v Moskvě. Co by dělal za Uralem, v Asii! Jenže Kotulánova vojska věděla své a pustila se za Ural.
 
-  
+</section>
+
+<section>
 
 Nad vejci od Čonkinových, potažmo Kokrgeličových slepic dostal vojín konceptualista Pytlíček nápad výlučně konceptuální: shromáždí tolik oplodněných slepičích vajec, aby jimi naplnil uzavřené Mauzoleum Vladimíra Iljiče Lenina u Kremelské zdi na Rudém náměstí, zahřeje vejce na teplotu kvočního těla při sezení na vejcích a teplotu bude udržovat tak dlouho, dokud se z vajec nevylíhnou žlutá kuřátka, čiperná a švitořivá. Pak otevře hlavní vrata mauzolea, záplava čerstvě vylíhlých kuřátek se vyřine kolem strážců do Rudého náměstí, mezi davy Moskvičů a návštěvníků hlavního města, žlutá záplava se rozlije na všechny strany, ozlatí celou plochu náměstí, lidé po nich budou šlapat, automobily, které mají povolení vjezdu, budou po nich jezdit, taková spousta kuřátek tam bude, až je všecka rozšlapou a rozjezdí a zežloutlé Rudé náměstí opět zrudne. Konceptualista Pytlíček to bude fotografovat, filmaři filmovat, vznikne rozsáhlá dokumentace a Pytlíček se stane nejslavnějším konceptuálním umělcem na světě. Cár Puťkin ho za to, že proslavil náměstí pod jeho okny, vlastnoručně odekoruje Řádem Ivana Hrozného I. stupně, anglická královna, aby něco nezmeškala, propůjčí mu Podvazkový řád z vlastního podvazku, Michal David složí a zazpívá na jeho počest ukolébavku Za bouře. Ještě bylo zapotřebí promyslet podrobnosti: spočítat, kolik vajec zaplní mauzoleum, kde je vezme, kdo mu je oplodní, co na to řekne věčně živý Lenin, jediný obyvatel mauzolea, uvyklý jiným návštěvám, když ho tam nechají s tolika vejci, a jak bude snášet kvoční teplotu… Otázky, na něž znamenitý konceptualista docela snadno najde odpověď. Od nápadu k jeho realizaci už je pouze nepatrný krůček. Snad nebude od věci navrhnout cáru Puťkinovi spolupráci. V mediální době by takovéto zviditelnění mohlo přijít vhod i cárovi. A pro cára nebude obtížné sehnat několik vagónů oplodněných vajec a promluvit s věčně živým Leninem o významu konceptu konceptualisty Pytlíčka pro jeho mauzoleum a Rudé náměstí, pro celé Rusko.
 
@@ -340,11 +356,15 @@ Trofim Denisovič Lysenko seděl za širokým psacím stolem se dvěma telefony�
 
 Šampaňské, ačkoli bylo sovětské a nebylo ani trochu šampaňské, byl to krymský sekt a šampaňské mu jenom říkali, snad kvůli vznešenosti, nebylo špatné: bublinek v něm bylo dost, příjemně lechtaly v nose, chuť mělo mírně nasládlou, na patře rozkvetlé pomeranče a při polknutí, docela vzadu vyzrálý kokosový ořech střední velikosti, osvěžující a lahodný, při výdechu povadlý lipový květ plný včelího bzukotu. Cosi mimořádného. Každopádně velice zajímavý nápoj. Zřejmě bylo té specifičnosti docíleno jarovizací několikráte opakovanou. Takový vzácný mok a oni jím ani trošku nešetřili. Marfa Vasiljevna odložila mokrý hadr, vylila špinavou vodu z kbelíku přede dveře, utřela si ruce do zástěry a z nerudné uklízečky se rázem proměnila ve zdatnou číšnici a usměvavou hostesku. Zručně otvírala zadrátované láhve, ani kapka neukápla, a nikoho přitom ani trošku nepocákala. Divné však bylo, že nikoho z vědců zde bezpochyby bádajících, k uvítání hostů nepřizvali. Jako by v celém ústavu byli jen tři lidé: ředitel, kníže Lapkin a uklízečka-číšnice.
 
-  
+</section>
+
+<section>
 
 Že vy jste byla, paňi, v nějakém tom Charvátsku nebo v Orlic­kých horách? Takovou dobu jsem o vás ani nezavadila, a jakou máte pěknou barvičku, jedna básnička. Máte recht, na Králickém Sněžníku je taky pěkně… Kdo by se v tom horku a zácpách štrachal někam do Splitu. Jenom kvůli té slané vodě? Tu si můžu posolit i v Nuslích. Jak to, panečku, utíká. Ani se nenadáme a jsou tu zase Vánoce. To samé jako vloni. To ten čas tak letí a nejlíp se to pozná na dětech, jak rostou a stárnou, a my furt to samé. Třeba ta Anička Dušičková, takové pěkné děvče, tu já pamatuji, a není to tak dávno, jak na chodníku skákala panáka a sukničky se jí zvedaly až nahoru a ve vlasech měla mašli, když zafoukal vítr. A nic. Jako by to bylo včera. Dneska už před sebou šťouchá kočárek. A jaký, panečku, kočárek pro tři. Ještě ani neodpromovala na tu učitelku, ani vdát se nestihla, a má trojčata. Tři kluky jako buky, taková vyzáblinka vyskákaná, jak se to do ní jen mohlo vejít! Matouš, Marek a Lukáš se jmenují, to je teď móda, biblická jména. A přitom ani nevědí, kdo to byl, ve škole se to neučí, žádné náboženství, do kostela nechodí a doma, kdo by je k tomu vedl! Pak se, paňi, nedivte, že to mají za svobodna. Ani se jí nedivím, že si ho nevzala, toho horolezce, co jí to udělal. Dušičková je pořád lepší než Šašková. Jenže ti kluci Šaškovi jsou, to už jim nikdo neodpáře, po tatínkovi. Matouš Šašek, Lukáš Šašek… samé š, jako když šlápnete na hada. Ten prostřední Marek je na tom trochu líp, ale marná sláva, všichni jsou to Šašci, jenom maminka je Dušičková. Spolu žijí na hromádce, na psí knížku, jak se říkávalo za monarchie a ještě i za první republiky, ale to vy, paňi, nemůžete pamatovat. Ani já to nepamatuji, akorát to vím. Co já vím věcí! Takový to byl slušný mládenec, ten její, co odešel do války, ten by si ji hned vzal, kdyby mu nedala, jak se říká, kopačky. Chudák, třeba už tam padl, někde v Rusku, už dlouho žádná zpráva, ztratili se kdesi, jen se podívejte na mapu, kdo by se tam neztratil, a ještě k tomu ve válce. No ten, Oldřich se jmenuje, jak jí dal kytku kopretin a pak se dal na vojnu – Navrátil. Dobře udělala, že si ho nevzala, teď by byla vdova se třemi děcky na krku. Kdo by jí co dal? Ten Šašek aspoň chodí řádně do práce, horolezectví je samozřejmě neživí, je předák na Prvním máji a vydělává dost, ne že ne, i když to už není jako za komunistů: Jsem horník, kdo je víc! Kdepak dneska… Banány měli o každých Vánocích a bez fronty, za komunistů. Melouny fasovali v létě po vyfárání v lampárně každý den a ti, co měli rodinu, na každého příslušníka půlmeloun navíc. Jsem horník a kdo je víc! – No a oni v tom Rusku, jak hledají Sovětský svaz a chtějí nad ním vyhrát válku, tak oni už roupama nevědí, co dělat roupama. Představte si, že tam jednomu chudákovi ukradli slepice a učili je lítat. Slepice tomu přišly na chuť a teď si tam lítají a přestaly snášet vejce. Ono to, paňi, za letu dost dobře nejde. A ten jejich kohout, toho lítat nenaučili, běhá chudák po zemi a svolává je, celý nadržený, že by na ně vlítnul, jenže ony tomu lítání přišly na chuť a co teď. Kam ti Kotulánovi chlapi a ženská přijdou, všude jenom zmatek. Taky se v tom Rusku naučili chlastat víc, než už uměli doma. Ani se mi nechce věřit, že tam pijí letecký benzin. Tomu chudákovi se slepicemi ukradli letadlo, co měl na zahrádce místo strašáka do zelí v zelí, a celé mu je vypili. Taky brzdovou kapalinu a chladicí směs z chladiče. Tak je to, paňi, když se začne s válkou. Z lidí se stane sběř, to mi věřte. A ten náš Nuselák, co je s nimi, konceptuální umělec Pytlíček, jak číhával pod mostem na profesora Weinbergera, není žádný Pytlíček. Představte si, paňi, co se na něj prolátlo: je to Vorlův vnuk. Ano, toho Vorla! Toho národního umělce, jak byl jeho syn Vorel za komunistů v Minkovicích zavřený za básničky, protože je básník, ale nic moc. Tak syn toho syna je Pytlíček, ve skutečnosti Vorel, je to jeho pseudonym umělecký. Ten konceptualista z Nuslí taky už neví, co roupama. Dělá jako konceptuální umění palačinky s tvarohem a morušovou marmeládou. Jestli ten se jednou vrátí do Nuslí! Co si s ním v Nuslích jenom počneme?
 
-  
+</section>
+
+<section>
 
 Oldřich Navrátil už cestou z Chudé Rudé silně toužil po tichém koutku, po samotě s dopisním papírem a něčím na psaní. Potřeboval si alespoň jednostranně popovídat s Aničkou Dušičkou. Vždyť na nic jiného nemyslel než na ni. Jenže za jízdy po kodrcavých výmolech zanedbaných frontových cest se nedalo napsat ani sloveso. Předtím v Čonkinově jizbě to také nešlo, čadila tam petrolejka a smrděla vodka, což je konstelace pro milostnou korespondenci krajně nevhodná. Snad zde, na vědeckém pracovišti, by se mohl příhodný koutek najít. Dopisní papír i špačka tužky nosil stále při sobě. Plnicí pero neměl čím naplnit a sadu propisek dílem vypsal, dílem zaschlé vyhodil.
 
@@ -370,7 +390,9 @@ Oldřich nevěděl, co by mu na to řekl. Ještě nikdy nemluvil s obra­zem an
 
 „Nikdy!“ zvolal Džugašvili a začal se soukat z obrazu, nedbaje na to, že si umaže bělostnou maršálskou uniformu. Zobrazeno bylo jenom poprsí, zbytek těla však nechyběl, jen ho nebylo vidět. Odkudsi zevnitř se vynořily ruce, chopily se rámu, generalissimus se vzepřel jako na hrazdě a gymnasticky seskočil z obrazu do třinácté komnaty, podlaha zaduněla. Zvedl se oblak prachu a zahalil celou místnost. Určitě tu nejméně půl století nikdo neuklízel. Do třinácté komnaty mají vstup zakázán všichni, uklízečky nevyjímaje. Oldřichu Navrátilovi se zatmělo vědomí, jako by se otevřelo propadlo a on padal, padal do nesmírné, bezedné díry. Napadlo ho přitom, že je to jediný způsob, jak se před rozlíceným hrdinou socialistické práce a Sovětského svazu zachránit: propadnout se do nevědomí.
 
-  
+</section>
+
+<section>
 
 „Ptáte se, co je to jarovizace,“ začal akademik T. D. Lysenko se sklenkou jarovizovaného sovětského šampaňského v ruce, aniž se jej někdo z Kotulánových vojsk zeptal. Žádný z nich nevěděl, co je to jarovizace, člověk nemůže vědět všechno, ale když má příležitost dozvědět se něco nového, proč ne? „Jarovizace neboli vernalizace je proces v individuálním vývojovém koloběhu rostlin… A tu nás v Jarovizačním ústavu akademika Trofima Denisoviče Lysenka Všesvazové, dříve Všesvazové, nyní Všeruské akademie napadlo…“
 
@@ -406,7 +428,9 @@ Marfa Vasiljevna vyndala hadřík ze zástěry listonošky Ňury, kterým byla z
 
 Melodie pochopila, že opět zvítězila. Akademik se stal její další kořistí. Až ho zcela vymačká a všechny šťávy z něj vysaje, probudí své padlé druhy a vydají se na pochod. Až toho zbabělce někam zalezlého najdou, až ho vyšťárají z jeho úkrytu, vzplane poslední bitva a oni Sovětský svaz porazí. – Akademik Trofim Denisovič Lysenko jí nabídl rámě, překračujíce spící válečníky odkráčeli do akademikovy barokní ložnice. Nebylo zcela zřejmé, kdo koho odvádí.
 
-  
+</section>
+
+<section>
 
 Kosatce u řeky už z části odkvetly, zbyly po nich tobolky s nedozrálými semeny, vzpřímené břity listů trčí z vody u břehu. Žlutá zmizela. Některé posekali spolu s kopřivami, když dělali pořádek. Vede tudy stezka pro cyklisty. Škoda jich, kosatců. Taky hadinec už kvete. Proč má kytka modrá s troškou fialové tak zlověstné jméno? Hadinec…
 
@@ -416,7 +440,9 @@ Jahůdky u vody nikdo nesbírá. Jsou jim příliš titěrné, příliš nepatr
 
 Všichni se řítí kolem, těsně vedle, míjejí své štěstí, ani si ho nevšimnou. Jahůdky jsem vysbíral, aby nezahynuly na nevšímavost.
 
-  
+</section>
+
+<section>
 
 Melodie se zmýlila. To, co spatřila hned při prvním setkání za brýlemi akademika Trofima Denisoviče Lysenka, byla vášeň; vášeň sžíravá, latentně doutnající a čas od času propukající, naplňovaná i nenaplňovaná. Jenže to nebyla vášeň milostná. Akademik nechtěl krásnou praporčici povalit na lože a ukojit svůj – a snad i její – pohlavní chtíč. Akademik hodlal ukojit chtíč neobvyklý, chtíč jarovizační. Nejdřív na Melodii a potom na všech ostatních. Ale ti mu jen tak neutečou.
 
@@ -474,7 +500,9 @@ Kníratý chlap v bílé uniformě s metály na prsou třískal hlavou o dla�
 
 Marfě Vasiljevně nezbylo než natočit do kýble čerstvou vodu a pořádně po tom neřádovi uklidit i přesto, že zrovna tohle neměla ve smlouvě. Vždyť ani žádnou smlouvu neměla.
 
-  
+</section>
+
+<section>
 
 Cestou kolem světa se často potkávám s jedním pánem. Je robustní a má dokonale vyholenou hlavu. Tak dokonale, že při letmém míjení nelze poznat, rostou-li mu vlasy, nebo nerostou. Ptáci se slétají, za letu pozorují tu nablýskanou hlavu a udiveně kroutí hlavičkami. Pán kráčí zvolna v plandavých kalhotách a podrážkami sandálů plácá o asfaltový chodník rozvážně a uváženě. Někdy má na sobě oranžové tričko, jindy tričko červené jak západ slunce, jak roucho buddhistického mnicha, jindy zase má tričko tak nebarevné, že nemá cenu se o něm zmiňovat. V takovém tričku jednou nasedl do přívozu a nechal se převézt, na druhém břehu se zcela ztratil na pozadí šedohnědých skal. Kolem krku má dvě řady korálků, možná s nimi i spává. Mumlá cosi nesrozumitelného, nějakou mantru, aby se mu lépe šlapalo. Když se míjíme, mlčky, nenápadným gestem ruky se pozdravíme. V druhé ruce si nesu sandály. Pokouším se jít kolem světa aspoň kousek bosky, jako Adam v Ráji.
 
@@ -484,7 +512,9 @@ Svět lidí se tváří nepřátelsky; nevraživě na sebe zahlídají, jeden se
 
 Tak to necháme tak.
 
-  
+</section>
+
+<section>
 
 Stalin by se před nikým nesklonil, ani kdyby to byl Lenin, a to bylo Oldřichovo štěstí. Kdyby se byl Stalin býval shýbl, snadno by ho vyšťáral ve třinácté komnatě zpod stolu a Oldřich Navrátil by byl býval dopadl stejně, jak dopadl Pytlíček, a je pravděpodobné, že Pytlíček by nedopadl tak, jak dopadl, ale dopadl by docela jinak, zcela nepředvídaně, protože nikdy nemůžeme vědět, jak by bylo, kdyby bylo jinak. To by byl býval Stalin ukousl hlavu Oldřichovi, rozbil lebku a vyjedl mozeček, pak by mu byl býval srdce z hrudi vyrval a udusil si je na cibulce nebo snědl syrové jen tak, bez chleba, kdyby… Jenže Stalin se o toho ubohého človíčka pod stolem vůbec nezajímal. Otevřel okno, vypustil mouchu masařku na svobodu a opustil třináctou komnatu. Oldřich neměl tušení, jak dlouhou dobu strávil pod stolem v nevědomí. Když se probral, brněla mu hlava jako po flámu a v ústech cítil ten strašný materiál, ze kterého vědec ochotník Gladyšev pálil svoji proslavenou vodku. Konvalinky to nebyly. Vojín pacifista se vyplížil ze třinácté komnaty a zahájil pátrání po svých spolubojovnících a spolubojovnici. Vrátil se zpátky do ředitelny. Našel ji opuštěnou, zbyly tu jen sklenky dopité i nedopité, láhve otevřené i neodšpuntované se válely v nedojedeném kaviáru, páchlo to rybinou, kořalkou, vyčpělým sektem, konvalinkami a člověčinou. Jenže člověk tu nezůstal žádný, všichni někam odešli.
 
@@ -612,7 +642,9 @@ Zvolání bylo tak mocné a nenadálé, že se Oldřich, který jistil chatrný
 
 Melodie Podpolanská s nimi ve sklepě nebyla, stopa po vídeňském cukráři jí mohla být ukradená, stejně jako jí mohl být ukradený i cukrář se svým osudem. Ani zelňačka ji neoslovila. Vytratila se z ředitelny se záminkou, že se musí nalokat čerstvého vzduchu, už ve chvíli, kdy Gladyšev naléval druhou sklenici. Bloumala chodbami ústavu, až narazila na povědomé dveře s číslicí 13. Popadla ji zvědavost. Ráda by zvěděla, co se stalo po jejich odjezdu s jarovizovaným jarovizátorem Lysenkem. Netušila, do čeho se pouští, když zkusila nahlédnout dovnitř klíčovou dírkou. Jenže ta měla zevnitř zaklapnutou záklopku. Melodie se odhodlala dveře pootevřít a nakouknout… Rychle je zas přirazila zpátky, zavřeštěla zděšeně a vyrazila chodbou pryč, ven, na vzduch, do Lady Nivy, na zadní sedadlo, přikryla se dekou a rázem byla v bezpečí. Kdyby měla popsat, co ve zlomku vteřiny spatřila, řekla by: prázdný květináč, hromádku vybělených kostí, Lysenkovy kulaté brýle na rozpolcené lebce. – Stalin v bílé maršálské uniformě na ni s šibalským úsměvem kýval z obrazu: „Jen pojď, holubičko, pojď! Nic se neboj, nic dobrého se ti nestane…“
 
-  
+</section>
+
+<section>
 
 Šel jsem zas kolem vody, abych nezabloudil, a spatřil tam cosi, co už se vídá jenom v romantických filmech: plavovlasý muž tam plavil koně s plavým ocasem a hřívou. Stáli na mělčině, vody sotva po kolena. Muž rozplétal koni zapletený ocas, česal mu ho prsty, nástroje česací nemaje. Koni se to líbilo, hrabal levou přední ve vodičce, potřásal hlavou, ještě hřívu je třeba pročesat; když ne hřebenem, aspoň prsty. Udeřil kopytem a voda vystříkla na všechny strany, duha se v ní udělala, bylo to nevšední.
 
@@ -622,11 +654,15 @@ Možná by ten obraz mohl viset v úzkém rámečku někde na zdi, zprvu bílé
 
 Nebo by ten obraz zapadl za gauč k vysušeným ohryzkům z jablek, která jsem ohryzal na cestách s Karlem Májem a Juliusem Vernerem před několika staletími. Odtud by ho už nikdo nikdy nevyhrabal. Jenže já jsem si vzal do hlavy cestu kolem světa. Když jsem už ušel tolik mílí, verst a kilometrů, přece toho nenechám jen kvůli koni!
 
-  
+</section>
+
+<section>
 
 Paňi, to mi nebudete věřit, sama tomu nemohu, ale je to tak. Ti chlapi, jak jsem vám o nich posledně vyprávěla, že vedou válku se Sovětským svazem, a ta ženská, co je s nimi, tak ti kdesi na Uralu nebo u Uralu začali pálit. To byste, paňi, neuhodla, co začali pálit a ta ženská s nimi. On jim totiž došel ten letecký benzin, co začali chlastat, i ta brzdová kapalina, co ji taky pili, a tak začali pálit kořalku. Ono je lepší chlastat kořalku než ta syntetická svinstva. Jenže i tak, jsou ve válce a místo bojování pálí kořalku a pak to pijí ještě teplé. Neřeknu, štamprličku před jídlem, aby mi chutnalo, neřeknu, sklenku vína při večeři, neřeknu, pár piv s chlapy v hospodě po práci a k tomu utopenec nebo naložené tvarůžky… Ale tolik, paňi, tolik! No řekněte… Nic mi neříkejte, čeho je moc, toho je příliš. A kdoví, z čeho to ti ochmelkové pálí. Opijí se a pak se válejí někde na Urale v příkopu. To nám dělají pěknou ostudu, našemu národu. Všecko, co naši hokejisté našemu národu vyhokejkují, tihle opilci na Urale pokazí. Já bych je hnala, paňi, marš do lomu a lámat! To by je to pálení přešlo hned. Já bych jim dala kořalku! Prý z malin. Prý! To bych chtěla vidět, jak je sbírají hezky po jedné do konvičky. Potom zpívají sprosté odrhovačky na celý Ural a pijí dál, až se jim z toho udělá špatně a dobře jim tak. Poblijte se, potvory! A to jsou mezi nimi tátové od dětí a oni o tom ani nevědí. Jako ten militantní pacifista Navrátil. Však jsem vám, paňi, už vyprávěla o té nedostudované učitelce Dušičkové a o jejích Šašcích, přece. Jak má trojčata s horolezcem z dolu První máj. Tak ten Navrátil jí píše z války zamilovaná psaníčka a ona tohle mu. S Šaškem! Stejně už dlouho nepsal, nemá čas, musí pálit a chlastat s ostatními. Taky pěkný vejlupek všech ctností, pacholek od krav. Copak je to nějaké povolání, no řekněte, paňi, pást dobytek dokáže kdejaký blbeček a nemusí k tomu mít maturitu. Ona mu ta vojna trn z paty vytrhla, vojín, to je přece jenom něco víc než pastucha. Porodila mu trojčata, ani nestihl něco s ní mít pohlavního v posteli, víte, co tím myslím, že. Tak to udělal za něj všechno ten horolezec Šašek, štajgr z Prvního máje, a ten chudák v Rusku nic. Třeba se mu to už doneslo, kdoví. Dneska, paňi, je ten internet, a to máte hned, e-mail třeba až na druhý konec světa, jestli má ten svět nějaké konce. Proto on chlastá první ligu, že si musí sám pálit kořalku, a ti ostatní mu pomáhají. Válka je válka, paňi, a za války se vždycky pilo, aby to vydrželi. – Myslíte, paňi, toho pana Křoupala, jak mu s nimi utekla žena, co byl stréček, ten Hanák, jak vyprávěl už za první republiky do rádia hanácky veselé příhody z Hané a pak byl u vojska lidovým vypravěčem a teď je v penzi? Moc inteligentní pán to je, takový čistotný a zdrženlivý, u nás v Nuslích v Kloboučnické. Kdepak benzin, ten je moc drahý, i ta brzdová kapalina. Jakmile vypili letadlo, vrátili se ke kořalce, té si můžou napálit dosytosti. Že se zrovna na něj, paňi, ptáte, na pana Křoupala? Kdepak, ta se s ním nerozvede, není blázen, ta po něm bude dědit, jestli se z toho Uralu vrátí živá a zdravá, jestli ona jí neztvrdnou játra, ve válce člověk nikdy neví… Tak ten je zdráv jako řípa, ten by si i sám uklidit dokázal, kdyby to dokázal. Ale to víte, neměl to zapotřebí, vždycky to za něj někdo udělal, na vojně plukovníkům uklízejí obyčejní vojáčci, i když se to nemá, protože je to šikana, jenže vyžeňte ho s koštětem a kbelíkem, když už tam je. Tak mu občas v té Kloboučnické tu podlahu sjedu mokrým hadrem a nádobí mám hned, ty dva hrnky, to je raz dva, ale ve vší počestnosti. Jenom to kafíčko a tři Martinky z Penny, ty on má rád, z ovesných vloček, a já taky. To jsou takové dvoje Martinky, jedny s čokoládou a jedny bez. Já ráda s čokoládou, on ty bez, to víte, chlap. A ještě k tomu voják, plukovník vé vé. To se nám to s Křoupalem křoupe v Kloboučnické! Tos to pěkně upekla, pochvaluje si, ale dobře ví, že jsou z Penny, přece mu nebudu věšet bulíky na nos, plukovníkovi ve výslužbě! U toho bych ráda byla, až se vrátí z války ten Navrátil Oldřich a zjistí, že má tři kluky a všichni tři jsou Šašci. Ten jí to, panečku, vytmaví, učitelce! On ve válce za vlast cedí krev a ona mu s horolezcem tři kluky trojčata. Jenže kdoví, jestli jí to vytmaví, vždyť je to takový jemný pacifista, i když je ochlasta… Jenže kdoví, jestli se vrátí. Vždyť jsou, paňi, ve válce!
 
-  
+</section>
+
+<section>
 
 Nezasvěcenec by se mohl domnívat, že Ural je pustina. Konec Evropy, konec civilizace, konec světa; holé skály, divá zvěř – veverky a medvědi, kosodřevina, občas nějaký lyžařský vlek pro oligarchy a jiné zbohatlíky, sem tam nějaká nemocnice s chirurgy a ortopedy specializovanými na zlomeniny, vykloubeniny, pohmožděniny a naraženiny, krvácení do mozku a jiné úrazy způsobené lyžemi, medvědy a puškou. Opak je pravdou. Není to žádný Himálaj, na každém kroku dýmá a rachotí nějaký ten strojírenský Uralmaš vyrábějící mašiny pracovní, obranné i útočné, většinou ze železa. Vzduch je zasviněný spalováním fosilních paliv, medvědi uprchli na druhou stranu do Asie nebo do obrázkových knížek, veverka chodí do školy, už se naučila trochu psát, jen ty tvrdé a měkké znaky jí moc nejdou. Silnice sjízdné se řetězy i bez řetězů.
 
@@ -705,7 +741,9 @@ Jakmile se kola obou vozidel dotkla Sibiře, poznala Kotulánova vojska, že jso
 
 „Tak dobře,“ uzavřel poradu zcela neformálně velitel. „Počkáme v teple do jara, však on nám neuteče. A na jaře ho dostanem!“
 
-  
+</section>
+
+<section>
 
 Melodie měla pravdu, v Peckově jámě bylo jako ve vytopeném pokojíčku. Každý důstojník a praporčík měl v jámě svůj pokoj s koupelnou, jenom vojíni museli být pohromadě ve světnici mužstva, obyčejní kmáni nemají nárok na samostatnou ložnici ani v armádách vyspělých západních zemí. S tím se musel smířit i majitel jámy vojín specialista Longin Pecka.
 
@@ -719,7 +757,9 @@ Profesor Weinberger zimní přerušení války se Sovětským svazem a nucený 
 
 Profesor Weinberger nevěděl, co má dělat. S živou… vlastně s neživou, s opravdovou mrtvolou se dosud tak natěsno nesetkal. V životě sice potkal několik mrtvých, ale ti byli vesměs zavíkováni v rakvi, zaletováni v urně, na hřbitově zakopáni, v knize zaklapnuti… Aby mu někdo umřel v náruči, na to nebyl připraven. Měl by se pokusit toho člověka nějak oživit, vždyť by to mohl být opravdu Kepke-Kapkawski, smysl Weinbergerova života, alter ego, které si sám vybral. Pokusil se o umělé dýchání, ale nevěděl, jak na to. Když přiblížil svou tvář k tváři nešťastníkově a nic neucítil, jen chlad a ticho, pochopil, že je konec. Ledaže by někdo s živou vodou… ale to bychom museli být v pohádce. Tady by ani doktor Bolíto nepomohl. Ani masáž srdce nebude nic platná. Přeci jen to zkusí. Rozepjal mrtvému vatovaný kabát, aby se mu lépe dýchalo, bude-li dýchat. Jenže mrtvý nedýchal. Při marném pokusu narazil profesor na zalepenou obálku uloženou za košilí. Ve svitu baterky zjistil, že je to neodeslaný dopis s podivuhodnou adresou napsanou krasopisnou latinkou:
 
-  
+</section>
+
+<section>
 
 Slovutný Pán,
 
@@ -729,11 +769,15 @@ NUSLE
 
 Europská Unie
 
-  
+</section>
+
+<section>
 
 Byla to Weinbergerova adresa, mohl si dopis s klidným svědomím přečíst:
 
-  
+</section>
+
+<section>
 
 Slovutný Pane Professore Weinbergeře!
 
@@ -750,7 +794,9 @@ Christian Immanuel Kepke-Kapkawski, zv. Gitler_
 
 P. S.: Recept na medovník M. F. Krivoguboj se mi nepodařilo získat. Prý je to státní tajemství.
 
-  
+</section>
+
+<section>
 
 Slzy tekly profesoru Weinbergerovi z očí při čtení těch truchlivých řádek, zamrzaly cestou po huňatém svetru a měnily se v ledové perličky. Je mrtvý muž ve vatovaném kabátě Kepke-Kapkawski, nebo vězeň, který umírajícímu cukráři poskytl poslední službu, cestou na poštu zbloudil ve sněhové metelici a zahynul? Co když velký konditor ještě žije a v Šuročce píše další stránky svého díla? Profesor Weinberger se rozhodl: půjde do Šuročky. Půjde tam hned, nebude cestu odkládat. Kdyby přišel pozdě a Kepke-Kapkawského už nezastihl mezi živými, do smrti by si svoji trestuhodnou váhavost neodpustil. Svlékl ubohou mrtvolu z vatovaného kabátu, obul si mrtvého válenky a nasadil jeho ušanku, aby cestou nezmrzl, a vydal se po zavátých stopách.
 
@@ -792,7 +838,9 @@ A tak se z profesora Weinbergera stal vězeň Gitler Adolf, ubytován byl v b
 
 Jednou v noci, když všichni v baráku A spali, vyhrabal profesor Weinberger v hlavách palandy krabici od machorky a našel v ní konvolut napsaný německy nezaměnitelným rukopisem Christiana Immanuela Kepke-Kapkawského. Na svrchním listu bylo tučným ozdobným písmem napsáno:
 
-  
+</section>
+
+<section>
 
 Christian Immanuel Kepke-Kapkawski
 
@@ -802,6 +850,10 @@ PŘI KÁCENÍ BŘÍZY BĚLOKORÉ
 
 TUPOU SEKER­KOU
 
-  
+</section>
+
+<section>
 
 Svazek obsahoval bezmála tisíc listů vcelku zdařilého ručního papíru popsaných drobným písmem. Papír si zřejmě geniální cukrář vyráběl sám. Kdo dokáže Sacherův dort, dokáže snadno vyrobit také ruční papír. Je téměř jisté, že profesor Weinberger v táboře Šuročka zůstane až do jeho zrušení, bude-li zrušen. Bude-li zrušen, profesora Weinbergera přemístí do jiného tábora, ale na svobodu se nedostane. Může si třeba každý den psát protestní i škemrací dopisy úřadům i cáru Puťkinovi a třeba i do lampárny na Východním nádraží, že došlo k omylu, že není žádný Gitler. Kdyby ho pokládali za profesora Weinbergera nebo za cukráře Christiana Immanuela Kepke-Kapkawského, snad by nějakou šanci na propuštění měl. Ale Gitlera nepropustí nikdy nikdo. Ani osvícený despota a znamenitý demokrat cár Puťkin to neudělá.
+
+</section>
