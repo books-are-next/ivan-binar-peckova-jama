@@ -5,11 +5,11 @@ contentType: prose
 
 ## 1
 
-  
-
 Kdyby Peckovu jámu bývali měli Napoleon nebo generál Paulus, to by se jim to bývalo, panečku, bylo válčilo! Dějiny by vypadaly docela jinak a snad by ani nemuselo dojít ke Kotulánovu tažení na Sovětský svaz, protože by byl býval ani nevznikl.
 
 Vojska si tu seděla v salonu pěkně vyhřátém, zatímco vůkol se Sibiř činila, aby učinila zadost své kruté pověsti. Melodie Podpolanská si pouštěla video s Rychlíkovou inscenací Roku na vsi, ale nikdo se k ní nepřidal. Velitel Kotulán luštil křížovku v Relaxu, sobotní příloze Lidových novin, zadrhl se na hesle _odporný zápach_ na pět písmen. Oldřich Navrátil psal koncept dopisu Aničce a hodně při tom škrtal. Když všechno přeškrtal, vzal list do obou rukou a trhal a trhal a trhal. Longin Pecka ho silně rušil svou hudební produkcí. Vyhrabal kdesi kytaru s nelibým zvukem, silně rozladěnou, naladit ji nedokázal, a dal se do zpěvu:
+
+  
 
 > „Anička, dušička, někášli,  
 > aby ma u těba něnášli.  
@@ -106,6 +106,8 @@ Jenže říkejte zrovna Kotulánovi zrovna tohle! Na žižkárně do něj vtlouk
 
 „Nevěste hlavy, vojska, my tu válku vyhrajeme. Zas bude svátek v naší ulici…,“ povzbudil svou armádu a vyhlásil Velký zimní turnaj v kulečníku. Zahájen bude hned zítra po snídani a ukončen 21. března o půlnoci.
 
+  
+
 Na ostružiny se chodí, když jsou zralé; chodí se na ně tam, kde rostou. Jinak to nemá smysl. Pro maliny platí to samé. Čas malin jsem letos propásl na cestě kolem světa v krajině dávných Thráků a u hrobu Orfeova, a tam jsem na žádné maliny nenarazil. Když jsem se na ně vydal v našich končinách, bylo už po nich. Jen pár opozdilců se rdělo na usychajících větévkách. Vařívám z nich marmeládu. Je vzácnější než ostružinová: červenější, sladší a voňavější. Ostružiny mi neutečou. Rostou na drásavých prutech, které není radno brát do ruky, mají trny odhodlané každého popíchat.
 
 Odbočil jsem z původně zvoleného směru na polní lesní cestu, také tudy lze jít kolem světa. I když cestu protáhnou, i když se opozdíme, svět nám neuteče. Na cestě kolem světa si můžeme zvolit libovolnou trasu. Všechny cesty, také polní lesní odbočky vedou kolem světa. Zdrží nás sice, když nezvolíme cestu nejkratší, po té a té rovnoběžce nebo po tom a tom poledníku. Ale copak jsme závodníci!
@@ -117,6 +119,8 @@ Na polní lesní cestě čekal na mne neobvyklý úkaz: kompletní protéza horn
 Co je to za člověka, když dokáže ztratit vlastní chrup? Nebo ho snad úmyslně zahodil ve vzteku, když jadérko z ostružiny proniklo pod umělou hmotu a drásalo mu živou tkáň? Jak obrovská by to musela být zuřivost! Nebo si chrup z neznámých důvodů ještě doma vyndal z úst a vytrousil ho z děravé kapsy? Taky se mohl opít, činy opilců bývají nerozumné…
 
 Cesta, po které jsem šel, byla slepá ulička, musel jsem se vrátit. Když jsem se vracel s rozpíchanými prsty a třílitrovou konví ostružin, zuby už na placatém kameni nebyly.
+
+  
 
 Zimní turnaj v kulečníku vyhrál dosti těsně kapitán Kotulán. Ale ne proto, že je velitel a ostatní mu nechtěli kazit radost, nýbrž proto, že dokázal strkat do koulí ze všech hráčů nejlépe. V patách mu byla Melodie Podpolanská, hra s koulemi se jí znamenitě dařila. Dalo jí dost práce, aby svého velitele nezesměšnila a neporazila ho. Pecka za těmi dvěma notně pokulhával, i když se velice snažil a koncem února se začal k vedoucí dvojici nebezpečně přibližovat. Kdyby hráli ještě nějaký ten měsíc, kdoví… Nejhůř na tom byl Oldřich Navrátil, člověk nesoutěživý, kterému bylo úplně jedno, jak se umístí. Kulečník předtím nikdy nekoulel, a kdyby nebyla válka a nedostal to rozkazem, nikdo by ho k žádné soutěži nepřinutil. Podle toho to taky vypadalo. Nač ten chlapec při tak nemotorném šťouchání asi myslel?
 
@@ -318,8 +322,6 @@ Nic bych, paňi, za to nedala, kdyby to na ně prasklo a oni by byli za to popo
 
 ## 2
 
-  
-
 „Co mi sem lezete? Co tu chcete? Kdo vás sem zval?“ Těmito slovy přivítal kuchař okultista vojín Šulajda, či jak se vlastně jmenuje, nenadálé návštěvníky v kuchyni domku na kuří noze, patřícím Babě Jaze, její dceři Jaze Buře a černé kočce. Zrovna byl zahloubán do knihy v černé vazbě s bílými klikyháky místo písmen. Takto přivítal své druhdy druhy ve zbrani, s nimiž šel do války. Z vlastního rozhodnutí, dobrovolně. Vždyť se klidně mohl z roury u Kuřích Vod vrátit domů ke své zákonité manželce milé Helence, rovněž okultistce. On však se starším lejtěnantem Tatjanem Tatjanovičem Stěnolezynem, čestným člověkem, vylezl z roury, nedemobilizoval jako převážná většina vojsk, když armáda byla zrušena, nýbrž o vlastní vůli a snad i s nadšením se přidal ke Kotulánovým vojskům s úmyslem táhnout s nimi na Sovětský svaz a v čestném boji ho porazit. A teď je v chaloupce na kuří noze uprostřed sibiřské tajgy vítá s bandurskou.
 
 „Co tak zhurta, Župajdo?“ zarazil další nevraživosti velitel. Jeho velitel. Jeho bývalý velitel, protože nic nenasvědčovalo tomu, že by se kuchař okultista vrátil a pokračoval s nimi v bojích. Obával se, že ho přišli přemlouvat.
@@ -424,6 +426,8 @@ Jaga Bura s velkým půvabem vstala a z parádního pokoje přinesla parádn�
 
 Co těm chrabrým vojínům a vojínce zbývalo? Nemohli přece – i když by tuze rádi – naskákat do zlatého gazíku a vyrazit zpátky přes Ural a na Moskvu. Museli se vydat s kočkou a kuchařem okultistou na myši. Ale vůbec toho nelitovali. Byl to úspěšný lov, užili si při něm spoustu legrace.
 
+  
+
 _Chaloupka na kuří noze, neděle_
 
 Má milovaná Aničko, Dušičko moje nejdražší!
@@ -438,8 +442,6 @@ Už se nemohu dočkat chvíle, až si spolu vyjdeme ven, do polí a luk, budeme
 
 _Líbá Tě Tvůj  
 Oldřich_
-
-  
 
 „Hola hola, také já jsem zhmotněná představa,“ volal ze zápraží chaloupky na kuří noze za ujíždějícími vojsky kapitána Kotulána kuchař okultista Župajda. „Svoje vlastní představa! A jmenuji se Jurajda, vy pitomci, a nikdy jsem nebyl v žádném sirotčinci. Tatjan Tatjanovič Stěnolezyn to může dosvědčit!“
 
