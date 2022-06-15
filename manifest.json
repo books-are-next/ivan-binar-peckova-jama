@@ -7,8 +7,8 @@
   "publisher": "Městská knihovna v Praze",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "binar-peckova-jama-dc2a9ee",
-  "revision": "dc2a9ee",
+  "identifier": "binar-peckova-jama-2ebbbeb",
+  "revision": "2ebbbeb",
   "readingOrder": [
     "promo.html",
     "peckova_jama_005.html",
@@ -22,8 +22,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Mon Jun 13 2022 21:54:51 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655157291588
+    "date": "Wed Jun 15 2022 05:51:02 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1655272262920
   },
   "documents": [
     {
@@ -326,9 +326,9 @@
     {
       "title": "Tiráž",
       "file": "colophon.html",
-      "words": 116,
-      "chars": 734,
-      "ideas": 14,
+      "words": 136,
+      "chars": 916,
+      "ideas": 15,
       "role": "colophon",
       "order": null,
       "prev": "peckova_jama_012.html",
@@ -346,9 +346,9 @@
   ],
   "totals": {
     "all": {
-      "words": 91522,
-      "chars": 565740,
-      "ideas": 1974
+      "words": 91542,
+      "chars": 565922,
+      "ideas": 1975
     },
     "chapters": {
       "words": 91401,
