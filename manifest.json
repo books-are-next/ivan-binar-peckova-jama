@@ -5,10 +5,11 @@
   "title": "Peckova jáma",
   "author": "Ivan Binar",
   "publisher": "Městská knihovna v Praze",
+  "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "binar-peckova-jama-2ebbbeb",
-  "revision": "2ebbbeb",
+  "identifier": "binar-peckova-jama-1d25881",
+  "revision": "1d25881",
   "readingOrder": [
     "promo.html",
     "peckova_jama_005.html",
@@ -22,8 +23,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Wed Jun 15 2022 05:51:02 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655272262920
+    "date": "Thu Jun 16 2022 07:30:55 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1655364655060
   },
   "documents": [
     {
@@ -346,9 +347,9 @@
   ],
   "totals": {
     "all": {
-      "words": 91542,
-      "chars": 565922,
-      "ideas": 1975
+      "words": 91543,
+      "chars": 565930,
+      "ideas": 1976
     },
     "chapters": {
       "words": 91401,

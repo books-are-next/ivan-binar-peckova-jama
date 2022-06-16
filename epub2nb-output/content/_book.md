@@ -12,7 +12,8 @@ meta:
   publisher: Městská knihovna v Praze
   modified: '2022-02-24T00:00:00.000Z'
   isbn: 978-80-274-2182-4; 978-80-274-2181-7; 978-80-274-2183-1
-  publisherShort: MKP
+  publisherShort: mkp
+  edition: beletrie
 readingOrder:
   - promo.html
   - peckova_jama_005.html
