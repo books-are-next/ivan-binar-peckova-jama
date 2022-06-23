@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "binar-peckova-jama-1d25881",
-  "revision": "1d25881",
+  "identifier": "binar-peckova-jama-a2de14b",
+  "revision": "a2de14b",
   "readingOrder": [
     "promo.html",
     "peckova_jama_005.html",
@@ -23,8 +23,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Thu Jun 16 2022 07:30:55 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655364655060
+    "date": "Thu Jun 23 2022 10:08:41 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1655978921116
   },
   "documents": [
     {
