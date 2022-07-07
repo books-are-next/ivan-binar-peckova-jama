@@ -24,7 +24,7 @@ readingOrder:
   - peckova_jama_010.html
   - peckova_jama_011.html
   - peckova_jama_012.html
-  - colophon.html
+  - about.html
 tocBase:
   - id: section-1
     children:

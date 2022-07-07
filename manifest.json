@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "binar-peckova-jama-a2de14b",
-  "revision": "a2de14b",
+  "identifier": "binar-peckova-jama-8fbfccb",
+  "revision": "8fbfccb",
   "readingOrder": [
     "promo.html",
     "peckova_jama_005.html",
@@ -20,11 +20,11 @@
     "peckova_jama_010.html",
     "peckova_jama_011.html",
     "peckova_jama_012.html",
-    "colophon.html"
+    "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jun 23 2022 10:08:41 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655978921116
+    "date": "Thu Jul 07 2022 08:28:14 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1657182494412
   },
   "documents": [
     {
@@ -313,7 +313,7 @@
       "role": "chapter",
       "order": 8,
       "prev": "peckova_jama_011.html",
-      "next": "colophon.html",
+      "next": "about.html",
       "toc": [
         {
           "index": 0,
@@ -326,11 +326,11 @@
     },
     {
       "title": "Tiráž",
-      "file": "colophon.html",
+      "file": "about.html",
       "words": 136,
-      "chars": 916,
+      "chars": 915,
       "ideas": 15,
-      "role": "colophon",
+      "role": "about",
       "order": null,
       "prev": "peckova_jama_012.html",
       "next": null,
@@ -348,7 +348,7 @@
   "totals": {
     "all": {
       "words": 91543,
-      "chars": 565930,
+      "chars": 565929,
       "ideas": 1976
     },
     "chapters": {
