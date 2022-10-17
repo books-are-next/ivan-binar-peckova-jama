@@ -11,7 +11,7 @@ meta:
   author: Ivan Binar
   publisher: Městská knihovna v Praze
   modified: '2022-02-24T00:00:00.000Z'
-  isbn: ''
+  isbn: 978-80-274-2838-0
   publisherShort: mkp
   edition: beletrie
 readingOrder:
